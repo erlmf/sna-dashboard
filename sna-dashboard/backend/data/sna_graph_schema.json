@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "title": "Advanced Social Network Analysis Graph",
+    "description": "Graph data structure for SNA visualization in React. Nodes represent users, edges represent interactions (mentions + comments). Built from AdvancedSNA pipeline.",
+    "version": "1.0.0",
+    "directed": true,
+    "physics": {
+      "solver": "forceAtlas2Based",
+      "gravitationalConstant": -80,
+      "centralGravity": 0.01,
+      "springLength": 150,
+      "springConstant": 0.08,
+      "damping": 0.8,
+      "avoidOverlap": 1
+    },
+    "theme": {
+      "background": "#0d0d1a",
+      "fontColor": "#ffffff",
+      "edgeColor": "rgba(255,255,255,0.5)"
+    }
+  },
+
+  "nodes": [
+    {
+      "id": "user_alice",
+      "label": "alice",
+      "username": "alice",
+      "metrics": {
+        "eigenvector": 0.8521,
+        "degree_centrality": 0.6230,
+        "betweenness_centrality": 0.4110,
+        "influence_score": 0.7340
+      },
+      "community": {
+        "id": 0,
+        "label": "politics / economy / social"
+      },
+      "sentiment": {
+        "label": "positive",
+        "score": 0.72
+      },
+      "visual": {
+        "size": 52,
+        "color_background": "#4E79A7",
+        "color_border": "#2ecc71",
+        "border_width": 4,
+        "show_label": true
+      },
+      "flags": {
+        "is_influencer": true
+      },
+      "activity": {
+        "all_keywords": ["politics", "economy", "social"],
+        "total_likes": 3200,
+        "total_interactions": 850,
+        "total_comments_received": 420
+      },
+      "tooltip": {
+        "html": "<b>@alice</b><br>⭐ KEY INFLUENCER<br>Community: 0<br>Topic: politics / economy / social<br>Eigen: 0.8521<br>Betweenness: 0.4110<br>Degree: 0.6230<br>Sentiment: positive"
+      }
+    },
+    {
+      "id": "user_bob",
+      "label": "",
+      "username": "bob",
+      "metrics": {
+        "eigenvector": 0.3104,
+        "degree_centrality": 0.2890,
+        "betweenness_centrality": 0.1050,
+        "influence_score": 0.2800
+      },
+      "community": {
+        "id": 0,
+        "label": "politics / economy / social"
+      },
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.10
+      },
+      "visual": {
+        "size": 24,
+        "color_background": "#4E79A7",
+        "color_border": "#95a5a6",
+        "border_width": 1,
+        "show_label": false
+      },
+      "flags": {
+        "is_influencer": false
+      },
+      "activity": {
+        "all_keywords": ["economy"],
+        "total_likes": 540,
+        "total_interactions": 120,
+        "total_comments_received": 60
+      },
+      "tooltip": {
+        "html": "<b>@bob</b><br>Community: 0<br>Topic: politics / economy / social<br>Eigen: 0.3104<br>Betweenness: 0.1050<br>Degree: 0.2890<br>Sentiment: neutral"
+      }
+    },
+    {
+      "id": "user_carol",
+      "label": "carol",
+      "username": "carol",
+      "metrics": {
+        "eigenvector": 0.9012,
+        "degree_centrality": 0.7150,
+        "betweenness_centrality": 0.5330,
+        "influence_score": 0.8900
+      },
+      "community": {
+        "id": 1,
+        "label": "health / lifestyle / sport"
+      },
+      "sentiment": {
+        "label": "negative",
+        "score": -0.45
+      },
+      "visual": {
+        "size": 60,
+        "color_background": "#F28E2B",
+        "color_border": "#e74c3c",
+        "border_width": 4,
+        "show_label": true
+      },
+      "flags": {
+        "is_influencer": true
+      },
+      "activity": {
+        "all_keywords": ["health", "lifestyle", "sport"],
+        "total_likes": 5100,
+        "total_interactions": 1430,
+        "total_comments_received": 890
+      },
+      "tooltip": {
+        "html": "<b>@carol</b><br>⭐ KEY INFLUENCER<br>Community: 1<br>Topic: health / lifestyle / sport<br>Eigen: 0.9012<br>Betweenness: 0.5330<br>Degree: 0.7150<br>Sentiment: negative"
+      }
+    }
+  ],
+
+  "edges": [
+    {
+      "id": "e_alice_bob",
+      "source": "user_alice",
+      "target": "user_bob",
+      "type": "mention",
+      "weight": 3.42,
+      "visual": {
+        "width": 1.8,
+        "color": "rgba(255,255,255,0.5)"
+      }
+    },
+    {
+      "id": "e_bob_carol",
+      "source": "user_bob",
+      "target": "user_carol",
+      "type": "comment",
+      "weight": 1.10,
+      "visual": {
+        "width": 0.8,
+        "color": "rgba(255,255,255,0.5)"
+      }
+    },
+    {
+      "id": "e_carol_alice",
+      "source": "user_carol",
+      "target": "user_alice",
+      "type": "mention",
+      "weight": 5.67,
+      "visual": {
+        "width": 3.2,
+        "color": "rgba(255,255,255,0.5)"
+      }
+    }
+  ],
+
+  "communities": [
+    {
+      "id": 0,
+      "label": "politics / economy / social",
+      "color": "#4E79A7",
+      "node_count": 2,
+      "top_keywords": ["politics", "economy", "social"]
+    },
+    {
+      "id": 1,
+      "label": "health / lifestyle / sport",
+      "color": "#F28E2B",
+      "node_count": 1,
+      "top_keywords": ["health", "lifestyle", "sport"]
+    }
+  ],
+
+  "filters": {
+    "keywords": ["politics", "economy", "social", "health", "lifestyle", "sport"],
+    "sentiments": ["positive", "neutral", "negative"],
+    "community_labels": ["politics / economy / social", "health / lifestyle / sport"]
+  },
+
+  "summary": {
+    "total_nodes": 3,
+    "total_edges": 3,
+    "total_communities": 2,
+    "influencer_count": 2,
+    "avg_eigenvector": 0.6879,
+    "avg_betweenness": 0.3497,
+    "avg_degree_centrality": 0.5423
+  }
+}
