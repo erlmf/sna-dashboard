@@ -23,7 +23,6 @@ export default function App() {
   const [filters,      setFilters]      = useState({
     graphType:    'combined',
     tier:         null,
-    keyword:      null,
     communityId:  null,
     hideIsolated: false,
   })
@@ -112,7 +111,6 @@ export default function App() {
               <FilterBar
                 filters={filters}
                 onChange={setFilters}
-                keywords={kwData}
                 communities={commData?.data}
               />
               <div className="flex-1 relative">

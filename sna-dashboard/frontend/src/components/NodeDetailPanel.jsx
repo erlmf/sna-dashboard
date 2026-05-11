@@ -43,7 +43,6 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
               <Stat label="Score"       value={fmtPct(data.node.influence_score)} />
               <Stat label="PageRank"    value={fmtPct(data.node.pagerank)} />
               <Stat label="Betweenness" value={fmtPct(data.node.betweenness)} />
-              <Stat label="Authority"   value={fmtPct(data.node.authority_score)} />
             </div>
           </section>
 

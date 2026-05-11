@@ -48,32 +48,6 @@ export function StatsCharts({ metadata, graphType = 'combined' }) {
             <Stat label="Communities" value={metadata.n_communities} />
             <Stat label="LCC ratio"   value={`${((metadata.lcc_ratio ?? 0) * 100).toFixed(1)}%`} />
           </div>
-
-          {/* Edge type breakdown */}
-          {metadata.edge_type_counts && (
-            <div className="mt-3 rounded-lg border border-border bg-ink/50 p-3">
-              <h4 className="text-xs font-mono text-dim mb-2">Edge Types</h4>
-              <div className="space-y-1.5">
-                {Object.entries(metadata.edge_type_counts).map(([type, count]) => (
-                  <div key={type} className="flex items-center gap-3">
-                    <div className="flex-1 flex items-center gap-2">
-                      <span className="font-mono text-xs text-accent w-36">{type}</span>
-                      <div className="flex-1 bg-muted rounded-full h-1.5 overflow-hidden">
-                        <div
-                          className="h-full rounded-full bg-accent"
-                          style={{
-                            width: `${(count / metadata.total_edges) * 100}%`,
-                            opacity: 0.8,
-                          }}
-                        />
-                      </div>
-                    </div>
-                    <span className="font-mono text-xs text-dim w-12 text-right">{fmt(count)}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
         </section>
       )}
 

@@ -4,23 +4,19 @@ import { Select } from './ui.jsx'
 const TIER_OPTIONS = [1, 2, 3, 4, 5].map(t => ({ value: t, label: `Tier ${t}` }))
 
 const GRAPH_TYPE_OPTIONS = [
+  { value: 'combined', label: 'Combined Centrality' },
   { value: 'comment',  label: 'Comment Centrality'  },
   { value: 'mention',  label: 'Mention Centrality'  },
-  { value: 'combined', label: 'Combined Centrality' },
 ]
 
-export function FilterBar({ filters, onChange, keywords, communities }) {
+export function FilterBar({ filters, onChange, communities }) {
   const update = (key, val) => onChange({ ...filters, [key]: val })
-
-  const kwOptions = (keywords ?? []).slice(0, 30).map(k => ({
-    value: k.keyword, label: k.keyword,
-  }))
 
   const commOptions = (communities ?? []).slice(0, 20).map(c => ({
     value: c.community_id, label: `Community #${c.community_id} (${c.size})`,
   }))
 
-  const active = [filters.tier, filters.keyword, filters.communityId].filter(Boolean).length
+  const active = [filters.tier, filters.communityId].filter(Boolean).length
 
   return (
     <div className="flex flex-wrap items-center gap-2 px-4 py-2 border-b border-border bg-panel">
@@ -35,7 +31,7 @@ export function FilterBar({ filters, onChange, keywords, communities }) {
               onClick={() => update('graphType', opt.value)}
               className={clsx(
                 'rounded-lg px-3 py-1.5 text-xs font-mono transition-all border',
-                (filters.graphType ?? 'combined') === opt.value
+                (filters.graphType ?? 'comment') === opt.value
                   ? 'border-accent bg-accent/20 text-accent font-semibold'
                   : 'border-border text-dim hover:text-text hover:border-accent/40'
               )}
@@ -53,13 +49,6 @@ export function FilterBar({ filters, onChange, keywords, communities }) {
         onChange={v => update('tier', v ? Number(v) : null)}
         options={TIER_OPTIONS}
         placeholder="All Tiers"
-      />
-
-      <Select
-        value={filters.keyword}
-        onChange={v => update('keyword', v || null)}
-        options={kwOptions}
-        placeholder="All Keywords"
       />
 
       <Select
@@ -89,7 +78,6 @@ export function FilterBar({ filters, onChange, keywords, communities }) {
             graphType:    filters.graphType,
             hideIsolated: filters.hideIsolated,
             tier:         null,
-            keyword:      null,
             communityId:  null,
           })}
           className="text-xs font-mono text-red hover:text-red/80 transition-colors"
