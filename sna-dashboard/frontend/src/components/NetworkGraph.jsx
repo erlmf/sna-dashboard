@@ -1,12 +1,12 @@
-import { useRef, useEffect, useCallback, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import ForceGraph2D from 'react-force-graph-2d'
 import { Spinner } from './ui.jsx'
 
 // Community color palette
 const PALETTE = [
-  '#7c6af7','#22d3ee','#4ade80','#fbbf24','#f87171',
-  '#a78bfa','#0f7952','#fb923c','#60a5fa','#e879f9',
-  '#facc15','#2dd4bf','#f472b6','#818cf8','#86efac',
+  '#7c6af7', '#22d3ee', '#4ade80', '#fbbf24', '#f87171',
+  '#a78bfa', '#0f7952', '#fb923c', '#60a5fa', '#e879f9',
+  '#facc15', '#2dd4bf', '#f472b6', '#818cf8', '#86efac',
 ]
 
 // Base size per tier — dinaikkan agar lebih jelas
@@ -17,20 +17,20 @@ function calcNodeSize(node) {
   const base = TIER_SIZE[node.tier] ?? 7
 
   // Bonus dari centrality score (0–1 range, log-scaled)
-  const score      = node.combined_score ?? node.score ?? 0
+  const score = node.combined_score ?? node.score ?? 0
   const scoreBonus = Math.log1p(score * 100) * 1.5
 
   // Bonus dari total degree (banyaknya koneksi / node tetangga)
-  const degree      = (node.in_degree ?? 0) + (node.out_degree ?? 0)
+  const degree = (node.in_degree ?? 0) + (node.out_degree ?? 0)
   const degreeBonus = Math.log1p(degree) * 1.2
 
   return base + scoreBonus + degreeBonus
 }
 
 const EDGE_TYPE_COLOR = {
-    'comment':          '#7c6af7',
-    'comment+mention':  '#22d3ee',
-    'mention':          '#4ade80'
+  'comment': '#7c6af7',
+  'comment+mention': '#22d3ee',
+  'mention': '#4ade80'
 }
 
 function communityColor(commId) {
@@ -41,11 +41,11 @@ function communityColor(commId) {
 function EdgeTooltip({ edge, pos, onClose }) {
   if (!edge) return null
 
-  const src    = typeof edge.source === 'object' ? edge.source.username : edge.source
-  const tgt    = typeof edge.target === 'object' ? edge.target.username : edge.target
-  const type   = edge.edge_type ?? edge.type ?? 'comment'
+  const src = typeof edge.source === 'object' ? edge.source.username : edge.source
+  const tgt = typeof edge.target === 'object' ? edge.target.username : edge.target
+  const type = edge.edge_type ?? edge.type ?? 'comment'
   const weight = edge.weight ?? 1
-  const color  = EDGE_TYPE_COLOR[type] ?? '#7c6af7'
+  const color = EDGE_TYPE_COLOR[type] ?? '#7c6af7'
 
   return (
     <div
@@ -88,7 +88,7 @@ function EdgeTooltip({ edge, pos, onClose }) {
 }
 
 export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) {
-  const fgRef        = useRef()
+  const fgRef = useRef()
   const [dims, setDims] = useState({ w: 800, h: 600 })
   const containerRef = useRef()
 
@@ -97,7 +97,7 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
   const [hoveredEdge, setHoveredEdge] = useState(null)
 
   const edgeClickedRef = useRef(false)
-  
+
   // Responsive sizing
   useEffect(() => {
     if (!containerRef.current) return
@@ -153,68 +153,68 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
       setTimeout(() => fgRef.current?.zoomToFit(600, 80), 1200)
     }
   }, [graphData])
-useEffect(() => {
-  if (!fgRef.current || !graphData?.nodes?.length) return
+  useEffect(() => {
+    if (!fgRef.current || !graphData?.nodes?.length) return
 
-  const canvas = containerRef.current?.querySelector('canvas')
-  if (!canvas) return
+    const canvas = containerRef.current?.querySelector('canvas')
+    if (!canvas) return
 
-  const handleCanvasClick = (event) => {
-    const rect = canvas.getBoundingClientRect()
-    const mouseX = event.clientX - rect.left
-    const mouseY = event.clientY - rect.top
+    const handleCanvasClick = (event) => {
+      const rect = canvas.getBoundingClientRect()
+      const mouseX = event.clientX - rect.left
+      const mouseY = event.clientY - rect.top
 
-    const graphCoords = fgRef.current.screen2GraphCoords(mouseX, mouseY)
+      const graphCoords = fgRef.current.screen2GraphCoords(mouseX, mouseY)
 
-    // Node sudah punya x,y setelah simulasi karena dimutasi langsung
-    const nodeMap = {}
-    graphData.nodes.forEach(n => { nodeMap[n.id] = n })
+      // Node sudah punya x,y setelah simulasi karena dimutasi langsung
+      const nodeMap = {}
+      graphData.nodes.forEach(n => { nodeMap[n.id] = n })
 
-    const links = graphData.edges ?? []
-    let closest = null
-    let minDist = Infinity
-    const THRESHOLD = 15
+      const links = graphData.edges ?? []
+      let closest = null
+      let minDist = Infinity
+      const THRESHOLD = 15
 
-    for (const e of links) {
-      const srcId = typeof e.source === 'object' ? e.source.id : e.source
-      const tgtId = typeof e.target === 'object' ? e.target.id : e.target
-      const src = nodeMap[srcId]
-      const tgt = nodeMap[tgtId]
-      if (!src || !tgt || src.x == null || tgt.x == null) continue
+      for (const e of links) {
+        const srcId = typeof e.source === 'object' ? e.source.id : e.source
+        const tgtId = typeof e.target === 'object' ? e.target.id : e.target
+        const src = nodeMap[srcId]
+        const tgt = nodeMap[tgtId]
+        if (!src || !tgt || src.x == null || tgt.x == null) continue
 
-      const dx = tgt.x - src.x
-      const dy = tgt.y - src.y
-      const lenSq = dx * dx + dy * dy
-      if (lenSq === 0) continue
+        const dx = tgt.x - src.x
+        const dy = tgt.y - src.y
+        const lenSq = dx * dx + dy * dy
+        if (lenSq === 0) continue
 
-      let t = ((graphCoords.x - src.x) * dx + (graphCoords.y - src.y) * dy) / lenSq
-      t = Math.max(0, Math.min(1, t))
+        let t = ((graphCoords.x - src.x) * dx + (graphCoords.y - src.y) * dy) / lenSq
+        t = Math.max(0, Math.min(1, t))
 
-      const nearX = src.x + t * dx
-      const nearY = src.y + t * dy
+        const nearX = src.x + t * dx
+        const nearY = src.y + t * dy
 
-      const nearScreen = fgRef.current.graph2ScreenCoords(nearX, nearY)
-      const dist = Math.hypot(mouseX - nearScreen.x, mouseY - nearScreen.y)
+        const nearScreen = fgRef.current.graph2ScreenCoords(nearX, nearY)
+        const dist = Math.hypot(mouseX - nearScreen.x, mouseY - nearScreen.y)
 
-      if (dist < THRESHOLD && dist < minDist) {
-        minDist = dist
-        closest = e
+        if (dist < THRESHOLD && dist < minDist) {
+          minDist = dist
+          closest = e
+        }
+      }
+
+      if (closest) {
+        edgeClickedRef.current = true
+        setEdgeTooltip({ edge: closest, pos: { x: mouseX, y: mouseY } })
       }
     }
 
-    if (closest) {
-      edgeClickedRef.current = true
-      setEdgeTooltip({ edge: closest, pos: { x: mouseX, y: mouseY } })
-    }
-  }
-
-  canvas.addEventListener('click', handleCanvasClick)
-  return () => canvas.removeEventListener('click', handleCanvasClick)
-}, [graphData])
+    canvas.addEventListener('click', handleCanvasClick)
+    return () => canvas.removeEventListener('click', handleCanvasClick)
+  }, [graphData])
 
   const paintNode = useCallback((node, ctx, globalScale) => {
-    const size       = calcNodeSize(node)
-    const color      = communityColor(node.community_id)
+    const size = calcNodeSize(node)
+    const color = communityColor(node.community_id)
     const isSelected = selectedNode?.username === node.username
 
     // Glow untuk node selected, tier 1-2, atau node dengan banyak koneksi
@@ -243,21 +243,21 @@ useEffect(() => {
     // Border untuk selected
     if (isSelected) {
       ctx.strokeStyle = '#fff'
-      ctx.lineWidth   = 2 / globalScale
+      ctx.lineWidth = 2 / globalScale
       ctx.stroke()
     }
 
     // Label: T1/T2 selalu tampil, T3 tampil jika zoom cukup, semua tampil saat zoom tinggi
     const showLabel = node.tier <= 2 || (node.tier === 3 && globalScale > 1.5) || globalScale > 3
     if (showLabel) {
-      const label    = node.username
+      const label = node.username
       const fontSize = Math.max(11 / globalScale, 3)
-      ctx.font        = `bold ${fontSize}px JetBrains Mono`
-      ctx.textAlign   = 'center'
+      ctx.font = `bold ${fontSize}px JetBrains Mono`
+      ctx.textAlign = 'center'
 
       // Shadow/outline agar teks terbaca di atas node
       ctx.strokeStyle = 'rgba(0,0,0,0.7)'
-      ctx.lineWidth   = 3 / globalScale
+      ctx.lineWidth = 3 / globalScale
       ctx.strokeText(label, node.x, node.y + size + fontSize + 2)
 
       ctx.fillStyle = '#e8e8f0'
@@ -281,14 +281,16 @@ useEffect(() => {
     }
 
     if (link && event) {
-        setEdgeTooltip({
-          edge: link,
-          pos: { x: event.clientX ,
-            y: event.clientY},
-        })
-      } else {
-        setEdgeTooltip({ edge: null, pos: { x: 0, y: 0 } })
-      }
+      setEdgeTooltip({
+        edge: link,
+        pos: {
+          x: event.clientX,
+          y: event.clientY
+        },
+      })
+    } else {
+      setEdgeTooltip({ edge: null, pos: { x: 0, y: 0 } })
+    }
   }, [])
 
   const handleBackgroundClick = useCallback(() => {
@@ -364,8 +366,8 @@ useEffect(() => {
         }}
         linkColor={link => {
           const isHovered = hoveredEdge === link
-          const type      = link.edge_type ?? 'comment'
-          const base      = EDGE_TYPE_COLOR[type] ?? '#7c6af7'
+          const type = link.edge_type ?? 'comment'
+          const base = EDGE_TYPE_COLOR[type] ?? '#7c6af7'
           if (isHovered) return base
           const op = Math.min(0.5, (link.weight ?? 1) / 10 + 0.3)
           return `rgba(124,106,247,${op})`
@@ -387,12 +389,14 @@ useEffect(() => {
         onLinkHover={handleLinkHover}
         onBackgroundClick={handleBackgroundClick}
         backgroundColor="#0a0a0f"
-        linkDirectionalArrowLength={10}
-        linkDirectionalArrowRelPos={0.92}
-        linkDirectionalArrowColor={link => {
-          const type = link.edge_type ?? 'comment'
-          return EDGE_TYPE_COLOR[type] ?? 'rgba(124,106,247,0.5)'
+        linkDirectionalArrowLength={link => {
+          const isHovered = hoveredEdge === link
+          return isHovered ? 14 : 10
         }}
+        linkDirectionalArrowRelPos={0.82}
+        linkDirectionalArrowColor={link => { 
+          const type = link.edge_type ?? 'comment' 
+          return EDGE_TYPE_COLOR[type] ?? 'rgba(124,106,247,0.5)' }}
         // linkCanvasObjectMode={() => 'after'}
         // ── Force simulation parameters ────────────────────────────────────
         cooldownTicks={200}
