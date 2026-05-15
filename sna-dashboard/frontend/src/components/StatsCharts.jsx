@@ -12,10 +12,31 @@ const TIER_COLORS = {
   'Macro Influencer': '#7c6af7',
   'Mid Influencer':   '#22d3ee',
   'Micro Influencer': '#4ade80',
-  'Regular User':     '#374151',
+  'Regular User':     '#7f7188',
 }
 
-const CustomTooltip = ({ active, payload, label }) => {
+const TierTooltip = ({ active, payload, label }) => {
+  if (!active || !payload?.length) return null
+  const descriptions = {
+    'Mega Influencer': 'User who is famous with huge audiences but less personal engagement',
+    'Macro Influencer': 'User who is well-known online with wide reach',
+    'Mid Influencer': 'User with steady growth and balanced impact',
+    'Micro Influencer': 'User that has niche expertise and trusted voice',
+    'Regular User': 'User with relatively low interaction activity',
+  }
+  return (
+    <div className="min-w-[190px] rounded-xl border border-white/10 bg-[#0f1220]/95 px-3 py-2.5 shadow-2xl">
+      <p className="text-[11px] font-semibold text-white"> {label} </p>
+      <p className="mt-1 text-[10px] leading-relaxed text-zinc-400"> {descriptions[label]}</p>
+      <div className="mt-2 flex items-center justify-left gap-2">
+        <span className="text-[12px] text-zinc-500"> Count </span>
+        <span className="text-[11px] font-mono font-bold text-cyan-400"> {payload[0]?.value?.toLocaleString()}</span>
+      </div>
+    </div>
+  )
+}
+
+const KeywordToolTip = ({ active, payload, label }) => {
   if (!active || !payload?.length) return null
   return (
     <div className="rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono shadow-xl">
@@ -26,6 +47,16 @@ const CustomTooltip = ({ active, payload, label }) => {
         </p>
       ))}
     </div>
+  )
+}
+
+const CustomCursor = ({ x, y, width, height }) => {
+  return (
+    <rect x={x} y={y} width={width} height={height} rx={10} ry={10}
+      fill="rgba(124,106,247,0.2)"
+      stroke="rgba(255, 255, 255, 0.94)"
+      strokeWidth={1.5}
+    />
   )
 }
 
@@ -71,7 +102,7 @@ export function StatsCharts({ metadata, graphType = 'combined' }) {
                 tickLine={false}
                 width={40}
               />
-              <Tooltip content={<CustomTooltip />} />
+              <Tooltip content={<TierTooltip />} cursor={<CustomCursor />} />
               <Bar dataKey="count" radius={[4, 4, 0, 0]}>
                 {tierData.map(entry => (
                   <Cell
@@ -91,7 +122,7 @@ export function StatsCharts({ metadata, graphType = 'combined' }) {
         {t2 && <LoadingBlock label="Loading..." />}
         {e2 && <ErrorBlock message={e2} />}
         {kwData && (
-          <ResponsiveContainer width="100%" height={280}>
+          <ResponsiveContainer width="100%" height={Math.max(280, kwData.length * 40)}>
             <BarChart
               data={kwData}
               layout="vertical"
@@ -106,13 +137,13 @@ export function StatsCharts({ metadata, graphType = 'combined' }) {
               <YAxis
                 type="category"
                 dataKey="keyword"
-                width={110}
+                width={140}
                 tick={{ fill: '#e8e8f0', fontSize: 10, fontFamily: 'JetBrains Mono' }}
                 axisLine={false}
                 tickLine={false}
               />
-              <Tooltip content={<CustomTooltip />} />
-              <Bar dataKey="count" radius={[0, 4, 4, 0]} fill="#22d3ee" opacity={0.8} />
+              <Tooltip content={<KeywordToolTip />} cursor={<CustomCursor />} />
+              <Bar dataKey="count" radius={[0, 4, 4, 0]} fill="#22d3ee" opacity={0.8}/>
             </BarChart>
           </ResponsiveContainer>
         )}
