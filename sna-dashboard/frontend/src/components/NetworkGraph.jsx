@@ -107,7 +107,6 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
   const edgeClickedRef = useRef(0)
 
   const graphType = filters?.graphType ?? graphData?.metadata?.graph_name ?? ''
-
   // Responsive sizing
   useEffect(() => {
     if (!containerRef.current) return
@@ -286,6 +285,11 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
       setEdgeTooltip({ edge: null, pos: { x: 0, y: 0 } })
   }, [])
 
+  const allWeights = (graphData?.edges ?? []).map(e => e.weight ?? 1)
+  const minW = allWeights.length ? Math.min(...allWeights) : 1
+  const maxW = allWeights.length ? Math.max(...allWeights) : 2
+  const wRange = { min: minW, max: maxW === minW ? minW + 1 : maxW }
+
   // FIX: optional chaining agar tidak crash saat graphData null
   const normalizedLinks = (graphData?.edges ?? []).map(e => ({
     ...e,
@@ -359,10 +363,11 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
           linkSource="source"
           linkTarget="target"
           linkWidth={link => {
-            const isHovered = hoveredEdge === link
-            const base = 1 + Math.log1p(link.weight ?? 1)
-            return isHovered ? base * 2 : base
-          }}
+            const w = link.weight ?? 1
+            const normalized = (w - wRange.min) / (wRange.max - wRange.min)
+            const base = 0.5 + normalized * 9.5
+            return hoveredEdge === link ? base * 1.5 : base
+      }}
           linkColor={link => {
             const isHovered = hoveredEdge === link
             const base = EDGE_TYPE_COLOR[link.edge_type] ?? '#7c6af7'
