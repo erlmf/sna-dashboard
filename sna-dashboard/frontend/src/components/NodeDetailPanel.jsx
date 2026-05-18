@@ -47,7 +47,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                         z-[99999] w-52
                         rounded-lg border border-border bg-[#111318]
                         px-3 py-2 text-[11px] leading-relaxed text-popover-foreground
-                        shadow-2xl
+                        shadow-2xl font-mono
                         opacity-0 invisible
                         group-hover:opacity-100 group-hover:visible
                         transition-all duration-150"
