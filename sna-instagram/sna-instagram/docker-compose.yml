@@ -1,0 +1,59 @@
+version: '3.9'
+
+services:
+  # ── PostgreSQL Database ──────────────────────────────────────────────────────
+  db:
+    image: postgres:16-alpine
+    container_name: sna_postgres
+    environment:
+      POSTGRES_USER:     sna_user
+      POSTGRES_PASSWORD: sna_password
+      POSTGRES_DB:       sna_instagram
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sna_user -d sna_instagram"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # ── FastAPI Backend ──────────────────────────────────────────────────────────
+  backend:
+    build: ./backend
+    container_name: sna_backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://sna_user:sna_password@db:5432/sna_instagram
+      GRAPH_DATA_PATH: /app/data/processed/graph_data.json
+      INFLUENCER_CSV_PATH: /app/data/processed/influencer_ranking.csv
+      COMMUNITY_CSV_PATH: /app/data/processed/community_profiles.csv
+      DATASET_PATH: /app/data/processed/dataset_clean.csv
+    volumes:
+      - ./data:/app/data           # Mount data folder (output from notebooks)
+      - ./backend:/app             # Hot reload for development
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: on-failure
+
+  # ── React Frontend ───────────────────────────────────────────────────────────
+  frontend:
+    image: node:20-alpine
+    container_name: sna_frontend
+    working_dir: /app
+    command: sh -c "npm install && npm run dev -- --host"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_BASE_URL: http://localhost:8000
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
