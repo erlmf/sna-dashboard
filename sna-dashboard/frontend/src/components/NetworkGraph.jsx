@@ -21,6 +21,21 @@ function calcNodeSize(node) {
   return base + scoreBonus + degreeBonus
 }
 
+// Tambah fungsi ini di atas component
+function getEdgeOffset(edge, allEdges) {
+  const srcId = typeof edge.source === 'object' ? edge.source.id : edge.source
+  const tgtId = typeof edge.target === 'object' ? edge.target.id : edge.target
+  
+  // Cek apakah ada reverse edge
+  const hasReverse = allEdges.some(e => {
+    const eSrc = typeof e.source === 'object' ? e.source.id : e.source
+    const eTgt = typeof e.target === 'object' ? e.target.id : e.target
+    return eSrc === tgtId && eTgt === srcId
+  })
+  
+  return hasReverse ? 8 : 0  // offset 8px kalau ada reverse edge
+}
+
 const EDGE_TYPE_COLOR = {
   'comment':         '#7c6af7',
   'comment+mention': '#22d3ee',
@@ -192,6 +207,7 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
     if (!canvas) return
 
     const handleCanvasClick = (event) => {
+      console.log('canvas click fired')
       const rect = canvas.getBoundingClientRect()
       const mouseX = event.clientX - rect.left
       const mouseY = event.clientY - rect.top
@@ -208,7 +224,7 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
 
       let closest = null
       let minDist = Infinity
-      const THRESHOLD = 15
+      const THRESHOLD = 30
 
       for (const e of links) {
         const srcId = typeof e.source === 'object' ? e.source.id : e.source
@@ -217,34 +233,73 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
         const tgt = nodeMap[tgtId]
         if (!src || !tgt || src.x == null || tgt.x == null) continue
 
+        // Cek apakah edge ini punya reverse
+        const hasReverse = links.some(other => {
+          const oSrc = typeof other.source === 'object' ? other.source.id : other.source
+          const oTgt = typeof other.target === 'object' ? other.target.id : other.target
+          return oSrc === tgtId && oTgt === srcId
+        })
+
         const dx = tgt.x - src.x
         const dy = tgt.y - src.y
         const lenSq = dx * dx + dy * dy
         if (lenSq === 0) continue
 
-        let t = ((graphCoords.x - src.x) * dx + (graphCoords.y - src.y) * dy) / lenSq
-        t = Math.max(0, Math.min(1, t))
+        let nearX, nearY
 
-        const nearX = src.x + t * dx
-        const nearY = src.y + t * dy
-        const nearScreen = fgRef.current.graph2ScreenCoords(nearX, nearY)
-        const dist = Math.hypot(mouseX - nearScreen.x, mouseY - nearScreen.y)
+  if (hasReverse) {
+    // Untuk curved edge, cek titik tengah kurva
+    const len = Math.sqrt(lenSq)
+    const CURVE = 0.3
+    // Control point untuk bezier curve
+    const cpX = (src.x + tgt.x) / 2 + (dy / len) * len * CURVE
+    const cpY = (src.y + tgt.y) / 2 - (dx / len) * len * CURVE
 
-        if (dist < THRESHOLD && dist < minDist) {
-          minDist = dist
-          closest = e
-        }
-      }
-
-      if (closest) {
-        edgeClickedRef.current = Date.now()
-        setEdgeTooltip({ edge: closest, pos: { x: mouseX, y: mouseY } })
+    // Sample 10 titik sepanjang kurva
+    let minCurveDist = Infinity
+    for (let t = 0; t <= 1; t += 0.1) {
+      const bx = (1-t)*(1-t)*src.x + 2*(1-t)*t*cpX + t*t*tgt.x
+      const by = (1-t)*(1-t)*src.y + 2*(1-t)*t*cpY + t*t*tgt.y
+      const screen = fgRef.current.graph2ScreenCoords(bx, by)
+      const d = Math.hypot(mouseX - screen.x, mouseY - screen.y)
+      if (d < minCurveDist) {
+        minCurveDist = d
+        nearX = bx
+        nearY = by
       }
     }
 
+  } else {
+    let t = ((graphCoords.x - src.x) * dx + (graphCoords.y - src.y) * dy) / lenSq
+    t = Math.max(0, Math.min(1, t))
+    nearX = src.x + t * dx
+    nearY = src.y + t * dy
+  }
+
+  const nearScreen = fgRef.current.graph2ScreenCoords(nearX, nearY)
+  const dist = Math.hypot(mouseX - nearScreen.x, mouseY - nearScreen.y)
+
+      // Log semua edge dengan dist < 200
+  if (dist < 200) {
+      console.log(`edge ${srcId}→${tgtId} | hasReverse: ${hasReverse} | dist: ${dist.toFixed(1)}`)
+    }
+
+  if (dist < THRESHOLD && dist < minDist) {
+    minDist = dist
+    closest = e
+  }
+}
+  console.log('closest:', closest ? `${closest.source}→${closest.target}` : 'none', 'minDist:', minDist)
+
+  if (closest) {
+        edgeClickedRef.current = Date.now()
+        setEdgeTooltip({ edge: closest, pos: { x: mouseX, y: mouseY } })
+      }
+    }   
     canvas.addEventListener('click', handleCanvasClick)
     return () => canvas.removeEventListener('click', handleCanvasClick)
   }, [graphData, graphType])
+  
 
   const paintNode = useCallback((node, ctx, globalScale) => {
     const size       = calcNodeSize(node)
@@ -416,6 +471,16 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
             const normalized = (w - wRange.min) / (wRange.max - wRange.min)
             const base = 0.5 + normalized * 9.5
             return hoveredEdge === link ? base * 1.5 : base
+      }}
+      linkCurvature={link => {
+        const srcId = typeof link.source === 'object' ? link.source.id : link.source
+        const tgtId = typeof link.target === 'object' ? link.target.id : link.target
+        const hasReverse = normalizedLinks.some(e => {
+          const eSrc = typeof e.source === 'object' ? e.source.id : e.source
+          const eTgt = typeof e.target === 'object' ? e.target.id : e.target
+          return eSrc === tgtId && eTgt === srcId
+        })
+        return hasReverse ? 0.3 : 0  // melengkung kalau ada reverse edge
       }}
           linkColor={link => {
             const isHovered = hoveredEdge === link

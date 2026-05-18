@@ -70,7 +70,8 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <Stat label="Score" value={fmtPct(data.node.influence_score)} />
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
-                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">                    Weighted influence value calculated from multiple network centrality metrics.
+                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">                    
+                    Weighted influence value calculated from multiple network centrality metrics.
                   </span>
                 </span>
               </div>
@@ -86,7 +87,12 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
               </div>
 
               <div className="relative overflow-visible">
-                <Stat label="Betweenness" value={fmtPct(data.node.betweenness)} />
+                <Stat label="Betweenness" value={
+                  data.node.betweenness === 0 ? '0.0000' :
+                    data.node.betweenness < 0.000001 ? data.node.betweenness.toFixed(7) :
+                      data.node.betweenness < 0.0001 ? data.node.betweenness.toFixed(6) :
+                        fmtPct(data.node.betweenness)
+                } />
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
                   <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
@@ -119,7 +125,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                   </span>
                 </span>
               </div>
-            <Stat label="Total" value={fmt(data.node.total_degree)} />
+              <Stat label="Total" value={fmt(data.node.total_degree)} />
             </div>
           </section>
 
@@ -153,7 +159,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <div className="flex justify-between">
                   <span className="text-dim">Sentiment</span>
                   <span className={`font-mono text-xs ${data.community.dominant_sentiment === 'positive' ? 'text-green' :
-                      data.community.dominant_sentiment === 'negative' ? 'text-red' : 'text-dim'
+                    data.community.dominant_sentiment === 'negative' ? 'text-red' : 'text-dim'
                     }`}>
                     {data.community.dominant_sentiment}
                   </span>
