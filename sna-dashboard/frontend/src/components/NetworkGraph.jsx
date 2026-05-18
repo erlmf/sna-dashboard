@@ -105,6 +105,8 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
   const [edgeTooltip, setEdgeTooltip] = useState({ edge: null, pos: { x: 0, y: 0 } })
   const [hoveredEdge, setHoveredEdge] = useState(null)
   const edgeClickedRef = useRef(0)
+  const [searchQuery, setSearchQuery] = useState('')
+  const [suggestions, setSuggestions] = useState([])
 
   const graphType = filters?.graphType ?? graphData?.metadata?.graph_name ?? ''
   // Responsive sizing
@@ -162,6 +164,26 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
   const handleZoomPan = useCallback(() => {
     hasInteractedRef.current = true
   }, [])
+
+  const handleSearch = useCallback((query) => {
+  setSearchQuery(query)
+  if (!query.trim() || !graphData?.nodes) return setSuggestions([])
+  const q = query.toLowerCase()
+  setSuggestions(
+    graphData.nodes
+      .filter(n => n.username.toLowerCase().includes(q))
+      .slice(0, 8)
+  )
+}, [graphData])
+
+  const navigateToNode = useCallback((node) => {
+  if (!fgRef.current || node.x == null) return
+  fgRef.current.centerAt(node.x, node.y, 800)
+  fgRef.current.zoom(6, 800)
+  setSearchQuery('')
+  setSuggestions([])
+  onNodeClick?.(node)
+}, [onNodeClick])
 
   // Canvas click untuk detect edge click
   useEffect(() => {
@@ -328,12 +350,39 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
         </div>
       </div>
 
-      {/* Node + edge count */}
-      <div className="absolute top-3 right-3 z-10 rounded-lg border border-border bg-panel/90 px-3 py-2 backdrop-blur-sm">
-        <span className="text-xs font-mono text-dim">
-          {graphData?.nodes?.length ?? 0} nodes · {graphData?.edges?.length ?? 0} edges
-        </span>
+      {/* Node + edge count dan Search box */}
+      <div className="absolute top-3 right-3 z-10 flex flex-col gap-1.5">
+        <div className="rounded-lg border border-border bg-panel/90 px-3 py-2 backdrop-blur-sm">
+          <span className="text-xs font-mono text-dim">
+            {graphData?.nodes?.length ?? 0} nodes · {graphData?.edges?.length ?? 0} edges
+          </span>
+        </div>
+        <div className="rounded-lg border border-border bg-panel/90 px-3 py-2 backdrop-blur-sm">
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={e => handleSearch(e.target.value)}
+            placeholder="Search node..."
+            className="w-full bg-transparent text-xs font-mono text-dim placeholder:text-dim outline-none"
+          />
+        </div>
+        {suggestions.length > 0 && (
+          <div className="rounded-lg border border-border bg-panel/95 backdrop-blur-sm overflow-hidden">
+            {suggestions.map(node => (
+              <button
+                key={node.id}
+                onClick={() => navigateToNode(node)}
+                className="w-full px-3 py-1.5 text-left text-xs font-mono text-dim hover:bg-accent/10 hover:text-text flex items-center gap-2"
+              >
+                <div className="w-2 h-2 rounded-full flex-shrink-0"
+                  style={{ background: communityColor(node.community_id) }} />
+                @{node.username}
+              </button>
+            ))}
+          </div>
+        )}
       </div>
+
 
       {/* Hint */}
       <div className="absolute bottom-3 left-1/2 -translate-x-1/2 z-10 rounded-full border border-border bg-panel/80 px-3 py-1 backdrop-blur-sm">
