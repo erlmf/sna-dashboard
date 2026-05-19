@@ -13,12 +13,10 @@ const PALETTE = [
 const TIER_SIZE = { 1: 32, 2: 22, 3: 15, 4: 10, 5: 7 }
 
 function calcNodeSize(node) {
-  const base = TIER_SIZE[node.tier] ?? 7
-  const score      = node.combined_score ?? node.score ?? 0
+  const base       = TIER_SIZE[node.tier] ?? 7
+  const score      = node.influence_score ?? 0
   const scoreBonus = Math.log1p(score * 100) * 1.5
-  const degree      = (node.in_degree ?? 0) + (node.out_degree ?? 0)
-  const degreeBonus = Math.log1p(degree) * 1.2
-  return base + scoreBonus + degreeBonus
+  return base + scoreBonus 
 }
 
 // Tambah fungsi ini di atas component

@@ -59,25 +59,31 @@ export function CommunityPanel({ onSelectCommunity, graphType = 'combined' }) {
 
               {/* Stats row */}
               <div className="grid grid-cols-3 gap-2">
-                <Stat label="T1 nodes"   value={c.tier1_count ?? 0} />
-                <Stat label="T2 nodes"   value={c.tier2_count ?? 0} />
-                <Stat label="Cmts recv"  value={fmt(c.avg_comments_recv)} sub="avg" />
+                <Stat label="T1 Nodes"   value={c.tier1_count ?? 0} />
+                <Stat label="T2 Nodes"   value={c.tier2_count ?? 0} />
+                <Stat label="Comments Received"  value={fmt(c.total_comments_recv)} />
               </div>
 
               {/* Top influencer + broker */}
               <div className="space-y-1.5 text-xs">
                 <div className="flex justify-between">
                   <span className="text-dim">Top influencer</span>
-                  <span className="font-mono text-accent">@{c.top_influencer}</span>
+                  {c.top_influencer === 'tied' ?
+                    <span className="text-dim italic">score tied</span> :
+                    <span className="font-mono text-accent">@{c.top_influencer}</span>
+                  }
                 </div>
                 <div className="flex justify-between">
                   <span className="text-dim">Top broker</span>
-                  <span className="font-mono text-amber">@{c.top_broker}</span>
+                  {c.top_broker === 'tied' ?
+                    <span className="text-dim italic">score tied</span> :
+                    <span className="font-mono text-amber">@{c.top_broker}</span>
+                  }
                 </div>
                 <div className="flex justify-between">
                   <span className="text-dim">Sentiment</span>
                   <Badge color={SENTIMENT_COLOR[c.dominant_sentiment] ?? 'muted'}>
-                    {c.dominant_sentiment ?? '—'}
+                    {c.dominant_sentiment ?? 'tied'}
                   </Badge>
                 </div>
               </div>

@@ -67,14 +67,40 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
           <section>
             <h3 className="text-xs font-mono text-dim uppercase tracking-wider mb-3">Influence</h3>
             <div className="grid grid-cols-2 gap-3">
-              <Stat label="Score"       value={fmtPct(data.node.influence_score)} />
-              <Stat label="PageRank"    value={fmtPct(data.node.pagerank)} />
-              <Stat label="Betweenness" value={
-                data.node.betweenness === 0     ? '0.0000' :
-                data.node.betweenness < 0.000001 ? data.node.betweenness.toFixed(7) :
-                data.node.betweenness < 0.0001   ? data.node.betweenness.toFixed(6) :
-                fmtPct(data.node.betweenness)
-              } />
+              <div className="relative overflow-visible">
+                <Stat label="Score" value={fmtPct(data.node.influence_score)} />
+                <span className="group absolute top-2 right-2 inline-flex items-center">
+                  <Info size={12} className="text-muted-foreground cursor-default" />
+                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                    Weighted influence value calculated from multiple network centrality metrics.
+                  </span>
+                </span>
+              </div>
+
+              <div className="relative overflow-visible">
+                <Stat label="PageRank" value={fmtPct(data.node.pagerank)} />
+                <span className="group absolute top-2 right-2 inline-flex items-center">
+                  <Info size={12} className="text-muted-foreground cursor-default" />
+                  <span className="pointer-events-none absolute bottom-5 right-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                    Measures how important an account is based on the importance of connected accounts
+                  </span>
+                </span>
+              </div>
+
+              <div className="relative overflow-visible">
+                <Stat label="Betweenness" value={
+                  data.node.betweenness === 0      ? '0.0000' :
+                  data.node.betweenness < 0.000001 ? data.node.betweenness.toFixed(7) :
+                  data.node.betweenness < 0.0001   ? data.node.betweenness.toFixed(6) :
+                  fmtPct(data.node.betweenness)
+                } />
+                <span className="group absolute top-2 right-2 inline-flex items-center">
+                  <Info size={12} className="text-muted-foreground cursor-default" />
+                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                    Measures how often an account acts as a bridge between different communities.
+                  </span>
+                </span>
+              </div>
             </div>
           </section>
 
@@ -82,19 +108,35 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
           <section>
             <h3 className="text-xs font-mono text-dim uppercase tracking-wider mb-3">Degree</h3>
             <div className="grid grid-cols-3 gap-3">
-              <Stat label="In"    value={fmt(data.node.in_degree)} />
-              <Stat label="Out"   value={fmt(data.node.out_degree)} />
+              <div className="relative">
+                <Stat label="In" value={fmt(data.node.in_degree)} />
+                <span className="group absolute top-0 left-5 inline-flex items-center">
+                  <Info size={12} className="text-muted-foreground cursor-default" />
+                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                    Number of interactions received by an account from other users
+                  </span>
+                </span>
+              </div>
+              <div className="relative">
+                <Stat label="Out" value={fmt(data.node.out_degree)} />
+                <span className="group absolute top-0 left-8 inline-flex items-center">
+                  <Info size={12} className="text-muted-foreground cursor-default" />
+                  <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                    Number of interactions initiated by an account toward other users
+                  </span>
+                </span>
+              </div>
               <Stat label="Total" value={fmt(data.node.total_degree)} />
             </div>
           </section>
-
+  
           {/* Content */}
           <section>
             <h3 className="text-xs font-mono text-dim uppercase tracking-wider mb-3">Content</h3>
             <div className="grid grid-cols-2 gap-3">
               <Stat label="Posts"        value={fmt(data.node.post_count)} />
               <Stat label="Interactions" value={fmt(data.node.total_interaction)} />
-              <Stat label="Post Likes"   value={fmt(data.node.total_post_like)} />
+              <Stat label="Likes"   value={fmt(data.node.total_post_like)} />
             </div>
           </section>
 
@@ -109,7 +151,10 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 </div>
                 <div className="flex justify-between">
                   <span className="text-dim">Top influencer</span>
-                  <span className="font-mono text-accent text-xs">@{data.community.top_influencer}</span>
+                  {data.community.top_influencer === 'tied' ?
+                    <span className="text-dim italic text-xs">score tied</span> :
+                    <span className="font-mono text-accent text-xs">@{data.community.top_influencer}</span>
+                  }
                 </div>
                 <div className="flex justify-between">
                   <span className="text-dim">Dominant topic</span>

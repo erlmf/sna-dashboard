@@ -4,7 +4,7 @@
     "total_nodes": 931,
     "total_edges": 823,
     "density": 0.00095053,
-    "modularity": 0.94885,
+    "modularity": 0.948893,
     "n_communities": 125,
     "lcc_size": 90,
     "lcc_ratio": 0.0967,
@@ -20,7 +20,7 @@
       "influence_score": 0.7,
       "tier": 1,
       "tier_label": "Mega Influencer",
-      "pagerank": 0.04083139,
+      "pagerank": 0.0408314,
       "betweenness": 0.0,
       "in_degree": 78,
       "out_degree": 0,
@@ -68,10 +68,10 @@
     {
       "id": "otoproject",
       "username": "otoproject",
-      "influence_score": 0.339659,
+      "influence_score": 0.33964,
       "tier": 1,
       "tier_label": "Mega Influencer",
-      "pagerank": 0.02007165,
+      "pagerank": 0.02006979,
       "betweenness": 0.0,
       "in_degree": 38,
       "out_degree": 0,
@@ -217,10 +217,10 @@
     {
       "id": "investordailyid",
       "username": "investordailyid",
-      "influence_score": 0.167205,
+      "influence_score": 0.167199,
       "tier": 1,
       "tier_label": "Mega Influencer",
-      "pagerank": 0.01008092,
+      "pagerank": 0.01008034,
       "betweenness": 0.0,
       "in_degree": 19,
       "out_degree": 0,
@@ -751,10 +751,10 @@
     {
       "id": "daripresiden",
       "username": "daripresiden",
-      "influence_score": 0.088153,
+      "influence_score": 0.08815,
       "tier": 2,
       "tier_label": "Macro Influencer",
-      "pagerank": 0.00561359,
+      "pagerank": 0.00561329,
       "betweenness": 0.0,
       "in_degree": 10,
       "out_degree": 0,
@@ -775,10 +775,10 @@
     {
       "id": "webekspor",
       "username": "webekspor",
-      "influence_score": 0.088124,
+      "influence_score": 0.08813,
       "tier": 2,
       "tier_label": "Macro Influencer",
-      "pagerank": 0.00561068,
+      "pagerank": 0.00561126,
       "betweenness": 0.0,
       "in_degree": 10,
       "out_degree": 0,
@@ -799,10 +799,10 @@
     {
       "id": "laporan8.id",
       "username": "laporan8.id",
-      "influence_score": 0.086552,
+      "influence_score": 0.08655,
       "tier": 2,
       "tier_label": "Macro Influencer",
-      "pagerank": 0.00545261,
+      "pagerank": 0.00545238,
       "betweenness": 0.0,
       "in_degree": 10,
       "out_degree": 0,
@@ -823,10 +823,10 @@
     {
       "id": "officialinewstv",
       "username": "officialinewstv",
-      "influence_score": 0.086546,
+      "influence_score": 0.086547,
       "tier": 2,
       "tier_label": "Macro Influencer",
-      "pagerank": 0.00545204,
+      "pagerank": 0.00545211,
       "betweenness": 0.0,
       "in_degree": 10,
       "out_degree": 0,
@@ -1018,10 +1018,10 @@
     {
       "id": "indovibing.id",
       "username": "indovibing.id",
-      "influence_score": 0.056707,
+      "influence_score": 0.056708,
       "tier": 2,
       "tier_label": "Macro Influencer",
-      "pagerank": 0.00361222,
+      "pagerank": 0.00361228,
       "betweenness": 0.0,
       "in_degree": 7,
       "out_degree": 0,
@@ -1163,10 +1163,10 @@
     {
       "id": "astakomunikasi",
       "username": "astakomunikasi",
-      "influence_score": 0.042742,
+      "influence_score": 0.042745,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.00298153,
+      "pagerank": 0.00298183,
       "betweenness": 0.0,
       "in_degree": 5,
       "out_degree": 0,
@@ -1499,10 +1499,10 @@
     {
       "id": "madiuntoday.id",
       "username": "madiuntoday.id",
-      "influence_score": 0.033674,
+      "influence_score": 0.033678,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.00245657,
+      "pagerank": 0.00245704,
       "betweenness": 0.0,
       "in_degree": 4,
       "out_degree": 0,
@@ -1549,10 +1549,10 @@
     {
       "id": "indo.flashid",
       "username": "indo.flashid",
-      "influence_score": 0.03219,
+      "influence_score": 0.032191,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.00230741,
+      "pagerank": 0.00230747,
       "betweenness": 0.0,
       "in_degree": 4,
       "out_degree": 0,
@@ -2059,7 +2059,7 @@
       "influence_score": 0.015535,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.00140638,
+      "pagerank": 0.00140637,
       "betweenness": 0.0,
       "in_degree": 2,
       "out_degree": 0,
@@ -2105,10 +2105,10 @@
     {
       "id": "autotivo",
       "username": "autotivo",
-      "influence_score": 0.015506,
+      "influence_score": 0.01552,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.00140346,
+      "pagerank": 0.00140485,
       "betweenness": 0.0,
       "in_degree": 2,
       "out_degree": 0,
@@ -2130,10 +2130,10 @@
     {
       "id": "puspenpol",
       "username": "puspenpol",
-      "influence_score": 0.013947,
+      "influence_score": 0.013948,
       "tier": 3,
       "tier_label": "Mid Influencer",
-      "pagerank": 0.0012467,
+      "pagerank": 0.00124676,
       "betweenness": 0.0,
       "in_degree": 2,
       "out_degree": 0,
@@ -16933,7 +16933,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 29,
+      "community_id": 62,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -22405,7 +22405,7 @@
     {
       "source": "4l3x42022",
       "target": "sindonews",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22419,21 +22419,21 @@
     {
       "source": "76henikusumawati",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "________naba",
       "target": "genergibersih",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "___santosoadb",
       "target": "suaradotcom",
-      "weight": 1.1124,
+      "weight": 1.1065,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22447,7 +22447,7 @@
     {
       "source": "_arelov",
       "target": "feedcollective.co",
-      "weight": 1.1019,
+      "weight": 1.1038,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22461,14 +22461,14 @@
     {
       "source": "_dewisri.dsy",
       "target": "luarbioskop",
-      "weight": 1.1018,
+      "weight": 1.1036,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "_galuh666",
       "target": "jabarekspres",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22482,14 +22482,14 @@
     {
       "source": "_mon97",
       "target": "luarbioskop",
-      "weight": 1.1009,
+      "weight": 1.1018,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "_ndrok",
       "target": "timesindonesia",
-      "weight": 1.1014,
+      "weight": 1.1028,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22524,7 +22524,7 @@
     {
       "source": "aadhigunawans",
       "target": "sindonews",
-      "weight": 1.1368,
+      "weight": 1.1278,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22538,14 +22538,14 @@
     {
       "source": "aan101425",
       "target": "astakomunikasi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aan101425",
       "target": "daripresiden",
-      "weight": 1.1158,
+      "weight": 1.1134,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22566,21 +22566,21 @@
     {
       "source": "abangjii",
       "target": "koranbaliexpress",
-      "weight": 1.1295,
+      "weight": 1.1223,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "abchopq",
       "target": "luarbioskop",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "abiambunten",
       "target": "tommybr_jipro",
-      "weight": 1.1472,
+      "weight": 1.1395,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22629,21 +22629,21 @@
     {
       "source": "adhityadito",
       "target": "otoproject",
-      "weight": 1.1042,
+      "weight": 1.1037,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "adi.putra.75209",
       "target": "anaktambang",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "adilsetiawan65",
       "target": "webekspor",
-      "weight": 1.1278,
+      "weight": 1.1143,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22664,14 +22664,14 @@
     {
       "source": "aditya_uki_nugroho",
       "target": "manofourtimeid",
-      "weight": 1.1047,
+      "weight": 1.1095,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "adwi.hantoro",
       "target": "bloombergtechnoz",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22692,14 +22692,14 @@
     {
       "source": "ageng.pangestu217",
       "target": "warta.dotcom",
-      "weight": 1.1458,
+      "weight": 1.1595,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "agilhari.s",
       "target": "nkri24jam",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22713,7 +22713,7 @@
     {
       "source": "aguspriyadiw",
       "target": "sindonews",
-      "weight": 1.1083,
+      "weight": 1.1075,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22727,14 +22727,14 @@
     {
       "source": "agusvanhoten",
       "target": "tuturmediadigital",
-      "weight": 1.1066,
+      "weight": 1.1041,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aguzaja01",
       "target": "tommybr_jipro",
-      "weight": 1.1372,
+      "weight": 1.1424,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22762,14 +22762,14 @@
     {
       "source": "aiko51621",
       "target": "officialinewstv",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "akhirul_kong86",
       "target": "otoproject",
-      "weight": 1.1097,
+      "weight": 1.1056,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22790,14 +22790,14 @@
     {
       "source": "alamsah_48",
       "target": "bitorexpost",
-      "weight": 1.1052,
+      "weight": 1.1058,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "alamsemesta189",
       "target": "ariusama20",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22811,14 +22811,14 @@
     {
       "source": "alfredogustiar",
       "target": "puspenpol",
-      "weight": 1.1246,
+      "weight": 1.1126,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "alief9196",
       "target": "koranbaliexpress",
-      "weight": 1.1247,
+      "weight": 1.1128,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22832,14 +22832,14 @@
     {
       "source": "aliifjr_",
       "target": "tumbuhkaya.id",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "along_ai",
       "target": "suaradotcom",
-      "weight": 1.1094,
+      "weight": 1.105,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22881,7 +22881,7 @@
     {
       "source": "amiensedunia",
       "target": "sindonews",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22895,7 +22895,7 @@
     {
       "source": "andana.satriya",
       "target": "otoproject",
-      "weight": 1.1209,
+      "weight": 1.1144,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22909,7 +22909,7 @@
     {
       "source": "andiconyputroe",
       "target": "daripresiden",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22923,14 +22923,14 @@
     {
       "source": "andre_aryudhi",
       "target": "otoproject",
-      "weight": 1.1953,
+      "weight": 1.1806,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "andre_pupun",
       "target": "komnas.ham",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22944,14 +22944,14 @@
     {
       "source": "andri_g.noviantoro",
       "target": "otoproject",
-      "weight": 1.2135,
+      "weight": 1.2087,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "andriyan_senpai",
       "target": "investordailyid",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22972,7 +22972,7 @@
     {
       "source": "anevsatriani",
       "target": "murianewscom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -22993,14 +22993,14 @@
     {
       "source": "anjase_xx",
       "target": "warta.dotcom",
-      "weight": 1.1035,
+      "weight": 1.1023,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "anjuransaham",
       "target": "investordailyid",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23014,14 +23014,14 @@
     {
       "source": "anneemih",
       "target": "bitorexpost",
-      "weight": 1.1011,
+      "weight": 1.1022,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "antoni_widjaja",
       "target": "bloombergtechnoz",
-      "weight": 1.1012,
+      "weight": 1.1024,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23042,21 +23042,21 @@
     {
       "source": "ardiansyahwantjiru",
       "target": "otoproject",
-      "weight": 1.231,
+      "weight": 1.1834,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arffan37",
       "target": "webekspor",
-      "weight": 1.1184,
+      "weight": 1.1094,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ariarya5858",
       "target": "sukabumiupdatecom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23098,28 +23098,28 @@
     {
       "source": "arifyuspiana",
       "target": "sukabumiupdatecom",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ariy_idzes",
       "target": "kompascom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arizfhrrzi",
       "target": "webekspor",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arjbokz",
       "target": "timesindonesia",
-      "weight": 1.1047,
+      "weight": 1.1048,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23133,7 +23133,7 @@
     {
       "source": "arkho91",
       "target": "bitorexpost",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23147,21 +23147,21 @@
     {
       "source": "arsfz__",
       "target": "tantriianita",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arsn_try",
       "target": "feedcollective.co",
-      "weight": 1.1008,
+      "weight": 1.1016,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "art_lv01",
       "target": "luarbioskop",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23182,28 +23182,28 @@
     {
       "source": "aryadmth_",
       "target": "luarbioskop",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aryawanfajar",
       "target": "otoproject",
-      "weight": 1.1157,
+      "weight": 1.1084,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aryonoput",
       "target": "metrotv",
-      "weight": 1.1243,
+      "weight": 1.1258,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arz_opini",
       "target": "ariusama20",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23217,14 +23217,14 @@
     {
       "source": "ashza_ras",
       "target": "genergibersih",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "asriani_amiruddin",
       "target": "tantriianita",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23238,7 +23238,7 @@
     {
       "source": "astor17027",
       "target": "bitorexpost",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23252,7 +23252,7 @@
     {
       "source": "aswan2184",
       "target": "sindonews",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23273,7 +23273,7 @@
     {
       "source": "aura_deluna_",
       "target": "bitorexpost",
-      "weight": 1.1724,
+      "weight": 1.1396,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23287,7 +23287,7 @@
     {
       "source": "avkxena",
       "target": "kompascom",
-      "weight": 1.1338,
+      "weight": 1.1172,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23308,7 +23308,7 @@
     {
       "source": "ayumegadewii",
       "target": "timesindonesia",
-      "weight": 1.1098,
+      "weight": 1.1058,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23336,7 +23336,7 @@
     {
       "source": "azton_dj23",
       "target": "laporan8.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23350,7 +23350,7 @@
     {
       "source": "bababigonthebike",
       "target": "anggadrumaholic",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23364,35 +23364,35 @@
     {
       "source": "bagas_liaa",
       "target": "luarbioskop",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bageur_akang",
       "target": "otoproject",
-      "weight": 1.1009,
+      "weight": 1.1018,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bahanstempelsurabaya",
       "target": "plnip.ubpadipala",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bakuljamu_91",
       "target": "warta.dotcom",
-      "weight": 1.1376,
+      "weight": 1.1387,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bananafirza4",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23413,7 +23413,7 @@
     {
       "source": "bangrikibatavia801",
       "target": "banten.feeds",
-      "weight": 1.1714,
+      "weight": 1.1694,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23434,28 +23434,28 @@
     {
       "source": "bayu_ap14",
       "target": "otoproject",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bayu_astrianto",
       "target": "plnip.ubpadipala",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "beaconnbine_",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bem_su1",
       "target": "sindonews",
-      "weight": 1.1064,
+      "weight": 1.1037,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23476,7 +23476,7 @@
     {
       "source": "bi_lang_",
       "target": "bitorexpost",
-      "weight": 1.4919,
+      "weight": 1.4487,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23490,7 +23490,7 @@
     {
       "source": "bilic_indonesia",
       "target": "akademi.antikorupsi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23511,7 +23511,7 @@
     {
       "source": "bimmm_______",
       "target": "timesindonesia",
-      "weight": 1.1043,
+      "weight": 1.1039,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23532,14 +23532,14 @@
     {
       "source": "bintangnani91",
       "target": "daripresiden",
-      "weight": 1.1198,
+      "weight": 1.1122,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bodyweighttrain77",
       "target": "officialinewstv",
-      "weight": 1.1006,
+      "weight": 1.1012,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23553,14 +23553,14 @@
     {
       "source": "bratayudhanamakoe",
       "target": "infobanyuwangi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "brianrahmadn",
       "target": "astrobike.katalog",
-      "weight": 1.1184,
+      "weight": 1.1094,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23574,7 +23574,7 @@
     {
       "source": "bslaksono",
       "target": "sindonews",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23595,7 +23595,7 @@
     {
       "source": "budi85army",
       "target": "metrotv",
-      "weight": 1.104,
+      "weight": 1.1033,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23623,14 +23623,14 @@
     {
       "source": "bunda.kkdd",
       "target": "sukabumiupdatecom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bundayati12345",
       "target": "tommybr_jipro",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23644,35 +23644,35 @@
     {
       "source": "bydlombok_",
       "target": "otoproject",
-      "weight": 1.1248,
+      "weight": 1.113,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "caapciipcuupp",
       "target": "suaradotcom",
-      "weight": 1.1004,
+      "weight": 1.1008,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "cahayabintang4668",
       "target": "tommybr_jipro",
-      "weight": 1.1069,
+      "weight": 1.1047,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "candi.architect",
       "target": "giz_idasean",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "captain_magha",
       "target": "warta.dotcom",
-      "weight": 1.1023,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23714,7 +23714,7 @@
     {
       "source": "chairijah5216",
       "target": "laporan8.id",
-      "weight": 1.1062,
+      "weight": 1.1033,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23728,14 +23728,14 @@
     {
       "source": "chris.tobing",
       "target": "suaradotcom",
-      "weight": 1.1063,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ciaaa_fac",
       "target": "timesindonesia",
-      "weight": 1.1053,
+      "weight": 1.106,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23756,84 +23756,84 @@
     {
       "source": "cut_dek_pink",
       "target": "koranbaliexpress",
-      "weight": 1.1009,
+      "weight": 1.1018,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "d_besar10",
       "target": "otoproject",
-      "weight": 1.1668,
+      "weight": 1.1466,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dadi_rahman_dr",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dadinurfauzi",
       "target": "officialinewstv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "daffakhoiri13_",
       "target": "genergibersih",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "danimaziza",
       "target": "jabarekspres",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "danu.dsgr",
       "target": "otoproject",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "david_w_sujarwo",
       "target": "katadatacoid",
-      "weight": 1.1154,
+      "weight": 1.1078,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "davidsonkarokaro",
       "target": "indovibing.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dealerpolygonphoenix",
       "target": "metrotv",
-      "weight": 1.1785,
+      "weight": 1.1607,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "deharja77",
       "target": "indovibing.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "delfistjun",
       "target": "warta.dotcom",
-      "weight": 1.322,
+      "weight": 1.4249,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23847,7 +23847,7 @@
     {
       "source": "denantaaaaa",
       "target": "bitorexpost",
-      "weight": 1.1062,
+      "weight": 1.1033,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23861,7 +23861,7 @@
     {
       "source": "desiantoerwan",
       "target": "suaradotcom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23875,49 +23875,49 @@
     {
       "source": "deviratnasari1212",
       "target": "katakitaig",
-      "weight": 1.108,
+      "weight": 1.1114,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dhannytama",
       "target": "koranbaliexpress",
-      "weight": 1.1713,
+      "weight": 1.174,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dheni.id",
       "target": "otoproject",
-      "weight": 1.1159,
+      "weight": 1.1088,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dhila_meong",
       "target": "katakitaig",
-      "weight": 1.1011,
+      "weight": 1.1022,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dian_k.pratama",
       "target": "koranbaliexpress",
-      "weight": 1.1378,
+      "weight": 1.1526,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dianalstr14",
       "target": "feedcollective.co",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "didik2750",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23938,28 +23938,28 @@
     {
       "source": "dimas87936",
       "target": "koranbaliexpress",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dinosau12us",
       "target": "satukanjiwa2024",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dion_siagian",
       "target": "sindonews",
-      "weight": 1.114,
+      "weight": 1.1097,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "diosbright",
       "target": "suaradotcom",
-      "weight": 1.1068,
+      "weight": 1.1045,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -23973,7 +23973,7 @@
     {
       "source": "djihad_08",
       "target": "bitorexpost",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24001,91 +24001,91 @@
     {
       "source": "doddrell_tanty",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dodo_grandw",
       "target": "warta.dotcom",
-      "weight": 1.101,
+      "weight": 1.102,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dolaycut",
       "target": "officialinewstv",
-      "weight": 1.1104,
+      "weight": 1.107,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "donavan977",
       "target": "tumbuhkaya.id",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "doomypn",
       "target": "otoproject",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dr_amar___",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "drambollfc",
       "target": "otoproject",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "drawinn_00",
       "target": "depokhariini",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dsfrozenfood",
       "target": "bitorexpost",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dutarzqcmrlg",
       "target": "suaradotcom",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dwifirdaus_11",
       "target": "feedcollective.co",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dwighthendro",
       "target": "feedcollective.co",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "dwilaksonosetyowibowo",
       "target": "manofourtimeid",
-      "weight": 1.132,
+      "weight": 1.1183,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24099,35 +24099,35 @@
     {
       "source": "dynemc2.0",
       "target": "infobanyuwangi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "eddie__ngging",
       "target": "metrotv",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "edwarjuhandi",
       "target": "otoproject",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "edyalnur",
       "target": "banten.feeds",
-      "weight": 1.1163,
+      "weight": 1.1189,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ehsan.nura",
       "target": "tantriianita",
-      "weight": 1.1062,
+      "weight": 1.1033,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24141,7 +24141,7 @@
     {
       "source": "ekardiman",
       "target": "officialinewstv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24155,28 +24155,28 @@
     {
       "source": "ekomotormabur",
       "target": "metrotv",
-      "weight": 1.11,
+      "weight": 1.1062,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ekonomienergi_up45",
       "target": "aqielr15",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "elcoroch",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "elmayatigoenawan",
       "target": "daripresiden",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24190,49 +24190,49 @@
     {
       "source": "elvina.tjhan",
       "target": "bitorexpost",
-      "weight": 1.1339,
+      "weight": 1.1219,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "emanwahidinj",
       "target": "bitorexpost",
-      "weight": 1.1474,
+      "weight": 1.1261,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "endahnu",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "erj199e",
       "target": "officialinewstv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "eurekatedja",
       "target": "warta.dotcom",
-      "weight": 1.116,
+      "weight": 1.1138,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "evander_manroe77",
       "target": "sindonews",
-      "weight": 1.1063,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "evapermatasari25",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24246,28 +24246,28 @@
     {
       "source": "ewfharis",
       "target": "tumbuhkaya.id",
-      "weight": 1.1004,
+      "weight": 1.1008,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "excelsobraziliansantos",
       "target": "anaktambang",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "eyt70",
       "target": "manofourtimeid",
-      "weight": 1.1314,
+      "weight": 1.1399,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ezazafin",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24288,21 +24288,21 @@
     {
       "source": "fadlanahya",
       "target": "genergibersih",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "fahmimuhtasyam17",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "faisalladamm",
       "target": "arkaproject.idn",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24316,28 +24316,28 @@
     {
       "source": "fanboygarislucu",
       "target": "koranbaliexpress",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "fannyfariano24",
       "target": "metrotv",
-      "weight": 1.1011,
+      "weight": 1.1022,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "faqihh43",
       "target": "feedcollective.co",
-      "weight": 1.1029,
+      "weight": 1.1059,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "farelmaliq944",
       "target": "suaradotcom",
-      "weight": 1.1093,
+      "weight": 1.1048,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24351,28 +24351,28 @@
     {
       "source": "fazrisywbznntdm",
       "target": "katadatacoid",
-      "weight": 1.1436,
+      "weight": 1.123,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "feat.fatia1296",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "feb.rmd",
       "target": "investordailyid",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "febri14300",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24407,14 +24407,14 @@
     {
       "source": "firdaus_ahmad_015",
       "target": "timesindonesia",
-      "weight": 1.1066,
+      "weight": 1.1041,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "fitrianto971",
       "target": "sindonews",
-      "weight": 1.156,
+      "weight": 1.1295,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24428,49 +24428,49 @@
     {
       "source": "freedome4palestine",
       "target": "bitorexpost",
-      "weight": 1.2255,
+      "weight": 1.177,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "fren_fc",
       "target": "sukabumiupdatecom",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "friedo.hekya",
       "target": "warta.dotcom",
-      "weight": 1.1122,
+      "weight": 1.1106,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "frijal",
       "target": "otoproject",
-      "weight": 1.1215,
+      "weight": 1.1109,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "gahars_official",
       "target": "bitorexpost",
-      "weight": 1.1815,
+      "weight": 1.1806,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "galihtnml_70",
       "target": "timesindonesia",
-      "weight": 1.1093,
+      "weight": 1.1048,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ganishalasad",
       "target": "webekspor",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24505,28 +24505,28 @@
     {
       "source": "geodipaenergi.patuha",
       "target": "djebtke",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "gerryonk",
       "target": "otoproject",
-      "weight": 1.1035,
+      "weight": 1.1023,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ghe_penk13",
       "target": "metrotv",
-      "weight": 1.1014,
+      "weight": 1.1028,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ghfrihms_",
       "target": "tantriianita",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24540,7 +24540,7 @@
     {
       "source": "gilang_tjuk",
       "target": "infobanyuwangi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24554,7 +24554,7 @@
     {
       "source": "goodyeay",
       "target": "katadatacoid",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24582,7 +24582,7 @@
     {
       "source": "gsitest",
       "target": "plnip.ubpadipala",
-      "weight": 1.2001,
+      "weight": 1.2002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24617,14 +24617,14 @@
     {
       "source": "hafidahmadf_18",
       "target": "cerah_indonesiaku",
-      "weight": 1.2006,
+      "weight": 1.2012,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "hairil_gaskin",
       "target": "anaktambang",
-      "weight": 1.1006,
+      "weight": 1.1012,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24638,7 +24638,7 @@
     {
       "source": "hallorew",
       "target": "solehchemist",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24659,7 +24659,7 @@
     {
       "source": "hardi.aswin",
       "target": "katakitaig",
-      "weight": 1.1012,
+      "weight": 1.1024,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24673,28 +24673,28 @@
     {
       "source": "haritasik12",
       "target": "metrotv",
-      "weight": 1.1063,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "harry.adi_",
       "target": "otoproject",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "harryseagal4",
       "target": "bitorexpost",
-      "weight": 1.1171,
+      "weight": 1.1205,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "hars_1928",
       "target": "warta.dotcom",
-      "weight": 1.1961,
+      "weight": 1.2327,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24715,7 +24715,7 @@
     {
       "source": "hastutiwuri",
       "target": "katakitaig",
-      "weight": 1.1364,
+      "weight": 1.1498,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24729,28 +24729,28 @@
     {
       "source": "heindrow",
       "target": "daripresiden",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "hendriusman52",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "hermansyahaditya54",
       "target": "moltensalt.insight",
-      "weight": 1.2031,
+      "weight": 1.2015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "hernady_fr",
       "target": "danurenjaya",
-      "weight": 1.1033,
+      "weight": 1.1019,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24771,7 +24771,7 @@
     {
       "source": "hsbluhut",
       "target": "koranbaliexpress",
-      "weight": 1.1376,
+      "weight": 1.1432,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24785,21 +24785,21 @@
     {
       "source": "iaammaulana",
       "target": "lifeatgenb",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "iam_fauzi99",
       "target": "otoproject",
-      "weight": 1.1726,
+      "weight": 1.1445,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ichlasmohamad",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24834,14 +24834,14 @@
     {
       "source": "ikanasin_tokolima",
       "target": "tommybr_jipro",
-      "weight": 1.1237,
+      "weight": 1.1291,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ikasetyawan25",
       "target": "katakitaig",
-      "weight": 1.1023,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24869,35 +24869,35 @@
     {
       "source": "ikiriswan062",
       "target": "naturevolution.id",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ilham_m_ge8",
       "target": "manofourtimeid",
-      "weight": 1.1167,
+      "weight": 1.1197,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ilhamkaru",
       "target": "daripresiden",
-      "weight": 1.1889,
+      "weight": 1.1496,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ilyashusenramadan",
       "target": "moltensalt.insight",
-      "weight": 1.4031,
+      "weight": 1.4015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "im.ullann",
       "target": "otospector",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24918,7 +24918,7 @@
     {
       "source": "indovolix",
       "target": "simakpolitik",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24932,21 +24932,21 @@
     {
       "source": "indra_aetiawan",
       "target": "bitorexpost",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "indra_rachman19",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "indraadityaa9191",
       "target": "manofourtimeid",
-      "weight": 1.1176,
+      "weight": 1.1168,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -24974,21 +24974,21 @@
     {
       "source": "irfansaehab_",
       "target": "luarbioskop",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "isanurachmad",
       "target": "genbanteng",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "istamar_ist",
       "target": "mhdcclinic",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25002,14 +25002,14 @@
     {
       "source": "itaa_masitah19",
       "target": "kompascom",
-      "weight": 1.1005,
+      "weight": 1.101,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "itongeka",
       "target": "sindonews",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25023,14 +25023,14 @@
     {
       "source": "itsmeaccent",
       "target": "luarbioskop",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "iwan.nug",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25044,14 +25044,14 @@
     {
       "source": "iyolah_72",
       "target": "banten.feeds",
-      "weight": 1.1055,
+      "weight": 1.1111,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "jefry.wulingbatam",
       "target": "otoproject",
-      "weight": 1.1267,
+      "weight": 1.1169,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25065,21 +25065,21 @@
     {
       "source": "jendrasyaiful",
       "target": "daripresiden",
-      "weight": 1.1039,
+      "weight": 1.1079,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "jhanyshopcod",
       "target": "katakitaig",
-      "weight": 1.1195,
+      "weight": 1.1206,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "jibranmahesi",
       "target": "infobandaacehs",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25093,7 +25093,7 @@
     {
       "source": "jouskaaaaaa_",
       "target": "luarbioskop",
-      "weight": 1.1155,
+      "weight": 1.1128,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25128,7 +25128,7 @@
     {
       "source": "k_dem_09",
       "target": "luarbioskop",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25142,7 +25142,7 @@
     {
       "source": "kak_bho",
       "target": "banten.feeds",
-      "weight": 1.1075,
+      "weight": 1.1149,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25156,14 +25156,14 @@
     {
       "source": "kang_dondon",
       "target": "webekspor",
-      "weight": 1.1196,
+      "weight": 1.1118,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "kardiman_saja",
       "target": "tommybr_jipro",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25198,14 +25198,14 @@
     {
       "source": "kata2_tak_tertulis",
       "target": "bitorexpost",
-      "weight": 1.1875,
+      "weight": 1.1972,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "katakanpuput",
       "target": "moltensalt.insight",
-      "weight": 1.4031,
+      "weight": 1.4015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25219,14 +25219,14 @@
     {
       "source": "kazooel1933",
       "target": "infobandaacehs",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "keanuabhivandya",
       "target": "banten.feeds",
-      "weight": 1.1026,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25254,14 +25254,14 @@
     {
       "source": "kemalhanafii",
       "target": "sukabumiupdatecom",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "kerjamuid",
       "target": "satupersenofficial",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25310,7 +25310,7 @@
     {
       "source": "khrris_",
       "target": "kompascom",
-      "weight": 1.1406,
+      "weight": 1.1217,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25324,7 +25324,7 @@
     {
       "source": "kopianu",
       "target": "metrotv",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25338,7 +25338,7 @@
     {
       "source": "kuacikering5",
       "target": "cryfex.id",
-      "weight": 1.1092,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25352,7 +25352,7 @@
     {
       "source": "kugynana",
       "target": "pln_enjiniring",
-      "weight": 1.1092,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25387,7 +25387,7 @@
     {
       "source": "legnuts",
       "target": "kompascom",
-      "weight": 1.1006,
+      "weight": 1.1012,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25401,7 +25401,7 @@
     {
       "source": "lenibit.ch",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25429,49 +25429,49 @@
     {
       "source": "lis.dyah",
       "target": "banten.feeds",
-      "weight": 1.1055,
+      "weight": 1.1064,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "liyasf",
       "target": "solehchemist",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lkmn.xx1127",
       "target": "timesindonesia",
-      "weight": 1.1004,
+      "weight": 1.1008,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lucky6276600",
       "target": "manofourtimeid",
-      "weight": 1.1204,
+      "weight": 1.127,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lugina_kurniawati",
       "target": "sukabumiupdatecom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lullyaryani",
       "target": "tommybr_jipro",
-      "weight": 1.1425,
+      "weight": 1.13,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "luqmandiyah6",
       "target": "sawanganupdate",
-      "weight": 1.2002,
+      "weight": 1.2004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25520,7 +25520,7 @@
     {
       "source": "mahmudin_karta_wijaya",
       "target": "wartaekonomi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25534,7 +25534,7 @@
     {
       "source": "mal.nurlail",
       "target": "manofourtimeid",
-      "weight": 1.1369,
+      "weight": 1.1508,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25555,7 +25555,7 @@
     {
       "source": "mama_rengganis",
       "target": "katakitaig",
-      "weight": 1.1017,
+      "weight": 1.1034,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25569,14 +25569,14 @@
     {
       "source": "marcoovp14",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "marhendraputra",
       "target": "sindonews",
-      "weight": 1.2002,
+      "weight": 1.2004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25590,7 +25590,7 @@
     {
       "source": "marthin080307",
       "target": "kompascom",
-      "weight": 1.1006,
+      "weight": 1.1012,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25604,28 +25604,28 @@
     {
       "source": "maru_0392",
       "target": "bitorexpost",
-      "weight": 1.1104,
+      "weight": 1.107,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maruf2tangerang",
       "target": "metrotv",
-      "weight": 1.101,
+      "weight": 1.102,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mas_hyudha",
       "target": "madiuntoday.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "masih_santai678",
       "target": "infobandaacehs",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25653,28 +25653,28 @@
     {
       "source": "matriyadi",
       "target": "katadatacoid",
-      "weight": 1.1063,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mauli_daharahap",
       "target": "laporan8.id",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maullyaariifiin",
       "target": "luarbioskop",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maz.t.aja",
       "target": "luarbioskop",
-      "weight": 1.1075,
+      "weight": 1.1104,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25695,21 +25695,21 @@
     {
       "source": "meisahardika",
       "target": "bloombergtechnoz",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "meka007",
       "target": "madiuntoday.id",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "meka007",
       "target": "otoproject",
-      "weight": 1.11,
+      "weight": 1.1062,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25723,7 +25723,7 @@
     {
       "source": "mglenak",
       "target": "sindonews",
-      "weight": 1.1094,
+      "weight": 1.105,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25737,28 +25737,28 @@
     {
       "source": "mhmdvrgii",
       "target": "cerah_indonesiaku",
-      "weight": 1.203,
+      "weight": 1.2061,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mhmmdadry5",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mhr.fiqi",
       "target": "luarbioskop",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "miftahfarid.90",
       "target": "tuturmediadigital",
-      "weight": 1.1063,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25772,21 +25772,21 @@
     {
       "source": "mina85.rf",
       "target": "tommybr_jipro",
-      "weight": 1.1127,
+      "weight": 1.1162,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mister_lipe007",
       "target": "genbanteng",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mlnaputraa",
       "target": "luarbioskop",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25814,7 +25814,7 @@
     {
       "source": "mohamed_iam_08",
       "target": "kompascom",
-      "weight": 1.2364,
+      "weight": 1.1759,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25835,14 +25835,14 @@
     {
       "source": "mpakhrur",
       "target": "investordailyid",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "muhammad.firdaus10",
       "target": "metrotv",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25863,42 +25863,42 @@
     {
       "source": "muhandhika_eco",
       "target": "bloombergtechnoz",
-      "weight": 1.1237,
+      "weight": 1.1199,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mujiunimma",
       "target": "syamsiro",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mulyo_pasoepatisedjati",
       "target": "tumbuhkaya.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mumun.maemunah.587268",
       "target": "sukabumiupdatecom",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mybeauty.shopee",
       "target": "feedcollective.co",
-      "weight": 1.2003,
+      "weight": 1.2006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "myvetnadine",
       "target": "syamsiro",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25912,21 +25912,21 @@
     {
       "source": "namakuyuldi",
       "target": "bitorexpost",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nandia2307",
       "target": "daripresiden",
-      "weight": 1.1226,
+      "weight": 1.1131,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "narasiboy",
       "target": "rimbasatwa.id",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25940,21 +25940,21 @@
     {
       "source": "naufalhabibi21",
       "target": "greenpowergrouptbk",
-      "weight": 1.3001,
+      "weight": 1.3002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nawangseptia9",
       "target": "laporan8.id",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nazaruddin25",
       "target": "kompascom",
-      "weight": 1.1639,
+      "weight": 1.1362,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -25975,21 +25975,21 @@
     {
       "source": "nengkarawang3",
       "target": "daripresiden",
-      "weight": 1.1039,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nhs.post",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nicegift_id",
       "target": "bloombergtechnoz",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26003,56 +26003,56 @@
     {
       "source": "nico_perdana",
       "target": "otoproject",
-      "weight": 1.1291,
+      "weight": 1.1262,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nicosaliscii",
       "target": "luarbioskop",
-      "weight": 1.1069,
+      "weight": 1.1047,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "night_aftr",
       "target": "metrotv",
-      "weight": 1.1033,
+      "weight": 1.1019,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ninoright",
       "target": "astrobike.katalog",
-      "weight": 1.1033,
+      "weight": 1.1019,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nitamia38",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nizar9____",
       "target": "timesindonesia",
-      "weight": 1.1126,
+      "weight": 1.1069,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "noe.rucon",
       "target": "katadatacoid",
-      "weight": 1.101,
+      "weight": 1.102,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "noorhasanah7757",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26066,7 +26066,7 @@
     {
       "source": "note.dedi",
       "target": "genergibersih",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26087,7 +26087,7 @@
     {
       "source": "novendra_df",
       "target": "radiopatria",
-      "weight": 1.1037,
+      "weight": 1.1027,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26101,7 +26101,7 @@
     {
       "source": "nugraheni.raditya",
       "target": "metrotv",
-      "weight": 1.1011,
+      "weight": 1.1022,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26115,21 +26115,21 @@
     {
       "source": "nuriladi",
       "target": "cerah_indonesiaku",
-      "weight": 1.2075,
+      "weight": 1.2059,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nurrr2121_",
       "target": "laporan8.id",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "nurulbtfauzi",
       "target": "infobandaacehs",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26143,7 +26143,7 @@
     {
       "source": "nyith2",
       "target": "updatenusantaracom",
-      "weight": 1.2002,
+      "weight": 1.2004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26157,7 +26157,7 @@
     {
       "source": "ockta_galuh_sipo",
       "target": "webekspor",
-      "weight": 1.1399,
+      "weight": 1.1203,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26171,7 +26171,7 @@
     {
       "source": "oki_boer",
       "target": "zonaebt",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26185,28 +26185,28 @@
     {
       "source": "om_ibas_",
       "target": "otoproject",
-      "weight": 1.12,
+      "weight": 1.1262,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "om_nyoss",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "om_sullllll",
       "target": "koranbaliexpress",
-      "weight": 1.1683,
+      "weight": 1.1862,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "omgmicky",
       "target": "kompascom",
-      "weight": 1.1578,
+      "weight": 1.1377,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26220,7 +26220,7 @@
     {
       "source": "pakalidrus",
       "target": "officialinewstv",
-      "weight": 1.1008,
+      "weight": 1.1016,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26248,14 +26248,14 @@
     {
       "source": "panjimulki",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "parap129",
       "target": "sindonews",
-      "weight": 1.1163,
+      "weight": 1.1097,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26283,21 +26283,21 @@
     {
       "source": "passeljemmy",
       "target": "sindonews",
-      "weight": 1.1462,
+      "weight": 1.1237,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "paulinajauhari",
       "target": "otoproject",
-      "weight": 1.1246,
+      "weight": 1.1126,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "pemberimandat",
       "target": "bloombergtechnoz",
-      "weight": 1.2501,
+      "weight": 1.2268,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26311,14 +26311,14 @@
     {
       "source": "penguasa.kegelapan666",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "pepu20___",
       "target": "cryfex.id",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26339,7 +26339,7 @@
     {
       "source": "phantomplanet_xx",
       "target": "cerah_indonesiaku",
-      "weight": 1.2004,
+      "weight": 1.2008,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26353,14 +26353,14 @@
     {
       "source": "pln.uipklb",
       "target": "plnip.ubpadipala",
-      "weight": 1.2003,
+      "weight": 1.2006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "pnjalubumi",
       "target": "metrotv",
-      "weight": 1.1015,
+      "weight": 1.103,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26374,35 +26374,35 @@
     {
       "source": "pramukaoganilir",
       "target": "cerah_indonesiaku",
-      "weight": 1.2014,
+      "weight": 1.2028,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "priambodopongky",
       "target": "bitorexpost",
-      "weight": 1.1182,
+      "weight": 1.1135,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "prittapaw",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ptpesonapariwisata",
       "target": "banten.feeds",
-      "weight": 1.1041,
+      "weight": 1.1083,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "purwanindita",
       "target": "plnip.ubpadipala",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26416,7 +26416,7 @@
     {
       "source": "putrianggraini683",
       "target": "katakitaig",
-      "weight": 1.1062,
+      "weight": 1.1123,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26430,14 +26430,14 @@
     {
       "source": "queenajjakarta",
       "target": "katakitaig",
-      "weight": 1.1095,
+      "weight": 1.1099,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "quen_echaa",
       "target": "luarbioskop",
-      "weight": 1.1069,
+      "weight": 1.1047,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26451,14 +26451,14 @@
     {
       "source": "r.o.k.y6.87",
       "target": "suaradotcom",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "r1yus",
       "target": "otoproject",
-      "weight": 1.1102,
+      "weight": 1.1066,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26472,42 +26472,42 @@
     {
       "source": "rachmadirwanto",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rachmat.suhendro",
       "target": "anaktambang",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rachmatdosen",
       "target": "mkiofficial_",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "raden_maszamroni",
       "target": "investordailyid",
-      "weight": 1.1183,
+      "weight": 1.1092,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "raden_maszamroni",
       "target": "webekspor",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "radenmasarifningrat",
       "target": "theglobeconomy",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26521,28 +26521,28 @@
     {
       "source": "rahmat_jeri1",
       "target": "apaajapku",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "raja_makeup23",
       "target": "infobandaacehs",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "raja_springbed",
       "target": "katadatacoid",
-      "weight": 1.1275,
+      "weight": 1.1183,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rambeomar",
       "target": "indovibing.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26556,7 +26556,7 @@
     {
       "source": "rando_arsyad7",
       "target": "bloombergtechnoz",
-      "weight": 1.1092,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26577,14 +26577,14 @@
     {
       "source": "ratna_aden",
       "target": "akademi.antikorupsi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rayhanlexandra",
       "target": "bloombergtechnoz",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26619,21 +26619,21 @@
     {
       "source": "reinakamoon23",
       "target": "tuturmediadigital",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "reinheart_damanik",
       "target": "jakarta_headlines",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "relymalina",
       "target": "katakitaig",
-      "weight": 1.1135,
+      "weight": 1.1225,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26654,7 +26654,7 @@
     {
       "source": "resepnffam",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26689,35 +26689,35 @@
     {
       "source": "rezapahlepie1",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rian65272",
       "target": "luarbioskop",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "riankapraja",
       "target": "solehchemist",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "richard_ucayz",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ricky6510",
       "target": "koranbaliexpress",
-      "weight": 1.4074,
+      "weight": 1.3302,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26731,21 +26731,21 @@
     {
       "source": "rifqisyalim",
       "target": "autotivo",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "riisestia",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rikypermana_brt",
       "target": "bloombergtechnoz",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26766,21 +26766,21 @@
     {
       "source": "ringgalmajiid",
       "target": "otoproject",
-      "weight": 1.1069,
+      "weight": 1.1092,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "riniyulia790",
       "target": "banten.feeds",
-      "weight": 1.1274,
+      "weight": 1.1181,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "riyani_twins",
       "target": "banten.feeds",
-      "weight": 1.1134,
+      "weight": 1.1176,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26808,14 +26808,14 @@
     {
       "source": "rizkirezeki",
       "target": "feedcollective.co",
-      "weight": 1.1012,
+      "weight": 1.1024,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rizky_binahong",
       "target": "sukabumiupdatecom",
-      "weight": 1.1035,
+      "weight": 1.1023,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26836,28 +26836,28 @@
     {
       "source": "rizqimulyana",
       "target": "zonaebt",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rnaufallll",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "robbi.farhan",
       "target": "otoproject",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "robi_scorpion",
       "target": "bitorexpost",
-      "weight": 1.1229,
+      "weight": 1.1275,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26871,7 +26871,7 @@
     {
       "source": "ron_stry",
       "target": "bitorexpost",
-      "weight": 1.2364,
+      "weight": 1.1895,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26885,28 +26885,28 @@
     {
       "source": "rossiagstn",
       "target": "lifeatgenb",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "roynurm",
       "target": "bitorexpost",
-      "weight": 1.1046,
+      "weight": 1.1093,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rsadiesha15",
       "target": "zonaebt",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rsma.39",
       "target": "kabarciledug",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26920,14 +26920,14 @@
     {
       "source": "rudi_wassalam",
       "target": "sindonews",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rudywijaya.rw79",
       "target": "kompascom",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26948,14 +26948,14 @@
     {
       "source": "ryantwensley",
       "target": "bloombergtechnoz",
-      "weight": 1.1036,
+      "weight": 1.1025,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "rzky80465",
       "target": "bitorexpost",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -26969,42 +26969,42 @@
     {
       "source": "s0fyhud4",
       "target": "madiuntoday.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sablonjambi",
       "target": "katadatacoid",
-      "weight": 1.1094,
+      "weight": 1.105,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sahimal1791",
       "target": "laporan8.id",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sahimal5842",
       "target": "metrotv",
-      "weight": 1.1033,
+      "weight": 1.1019,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "salsabillaurel",
       "target": "genergibersih",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "samaranantonio",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27018,21 +27018,21 @@
     {
       "source": "samhuda1966",
       "target": "metrotv",
-      "weight": 1.1719,
+      "weight": 1.1614,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "samiun1976",
       "target": "indovibing.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "samyugeu",
       "target": "timesindonesia",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27046,7 +27046,7 @@
     {
       "source": "sandibinara",
       "target": "infobandaacehs",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27067,14 +27067,14 @@
     {
       "source": "satria395",
       "target": "otoproject",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "satriagasa",
       "target": "solehchemist",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27088,21 +27088,21 @@
     {
       "source": "satyarwida",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "satyrnus12",
       "target": "koranbaliexpress",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sayidulmuhlisin",
       "target": "manofourtimeid",
-      "weight": 1.1016,
+      "weight": 1.1032,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27116,7 +27116,7 @@
     {
       "source": "selamatabdurrahman99",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27130,7 +27130,7 @@
     {
       "source": "serafina_aleexa",
       "target": "metrotv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27144,42 +27144,42 @@
     {
       "source": "sesaryadi10",
       "target": "webekspor",
-      "weight": 1.1215,
+      "weight": 1.1109,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "setiabuddi",
       "target": "banten.feeds",
-      "weight": 1.1684,
+      "weight": 1.1864,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "setyobudi843",
       "target": "tommybr_jipro",
-      "weight": 1.1064,
+      "weight": 1.1037,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "setyod2",
       "target": "daripresiden",
-      "weight": 1.1027,
+      "weight": 1.1054,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sger_waras",
       "target": "infobanyuwangi",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "shashamarrysha",
       "target": "suaradotcom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27193,42 +27193,42 @@
     {
       "source": "sir.plants.alot",
       "target": "kompascom",
-      "weight": 1.1194,
+      "weight": 1.1114,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sirdonda",
       "target": "sindonews",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "skimidot22",
       "target": "katadatacoid",
-      "weight": 1.1125,
+      "weight": 1.1067,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "slahs_gavi",
       "target": "sukabumiupdatecom",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "slaveoftool",
       "target": "jabarekspres",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "sonya_on",
       "target": "webekspor",
-      "weight": 1.1153,
+      "weight": 1.1076,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27256,21 +27256,21 @@
     {
       "source": "sssaaaaaaalll",
       "target": "anaktambang",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "starleo164",
       "target": "bitorexpost",
-      "weight": 1.1028,
+      "weight": 1.1057,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "starvbest",
       "target": "updatenusantaracom",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27291,14 +27291,14 @@
     {
       "source": "stevejojonio",
       "target": "otoproject",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "suciati7885",
       "target": "metrotv",
-      "weight": 1.1128,
+      "weight": 1.1164,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27319,7 +27319,7 @@
     {
       "source": "suny1752",
       "target": "sindonews",
-      "weight": 1.1147,
+      "weight": 1.1112,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27333,7 +27333,7 @@
     {
       "source": "suryadigunawan",
       "target": "otoproject",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27354,7 +27354,7 @@
     {
       "source": "syahrulnr23",
       "target": "genergibersih",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27396,28 +27396,28 @@
     {
       "source": "syzahwa_",
       "target": "lifeatgenb",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "szahrxx",
       "target": "genergibersih",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tadikayudika",
       "target": "laporan8.id",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tamajuntak",
       "target": "luarbioskop",
-      "weight": 1.1043,
+      "weight": 1.1039,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27431,7 +27431,7 @@
     {
       "source": "taufiklexo8389",
       "target": "cerah_indonesiaku",
-      "weight": 1.4002,
+      "weight": 1.4004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27445,35 +27445,35 @@
     {
       "source": "tere616",
       "target": "kompascom",
-      "weight": 1.1246,
+      "weight": 1.1171,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "thedancingexplorer",
       "target": "naturevolution.id",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "theumunk",
       "target": "officialinewstv",
-      "weight": 1.1004,
+      "weight": 1.1008,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tiar_19",
       "target": "sindonews",
-      "weight": 1.1136,
+      "weight": 1.1089,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tii_aa37",
       "target": "genergibersih",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27501,42 +27501,42 @@
     {
       "source": "touristkeren",
       "target": "katadatacoid",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tovan.z",
       "target": "metrotv",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "trashranger.id",
       "target": "genergibersih",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tri.martu",
       "target": "sukabumiupdatecom",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "trijafayeldi",
       "target": "kompascom",
-      "weight": 1.1066,
+      "weight": 1.1041,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tuanaqsa",
       "target": "infobandaacehs",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27557,14 +27557,14 @@
     {
       "source": "tututata151",
       "target": "laporan8.id",
-      "weight": 1.1061,
+      "weight": 1.1031,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tututata151",
       "target": "officialinewstv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27578,14 +27578,14 @@
     {
       "source": "twentytwoninetyfour",
       "target": "sindonews",
-      "weight": 1.1092,
+      "weight": 1.1046,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tyfany_cantika",
       "target": "tommybr_jipro",
-      "weight": 1.1143,
+      "weight": 1.1194,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27599,91 +27599,91 @@
     {
       "source": "ucup_6989",
       "target": "luarbioskop",
-      "weight": 1.1301,
+      "weight": 1.119,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ugint808",
       "target": "harian.disway",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ugint808",
       "target": "sindonews",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ujangaripp",
       "target": "bitorexpost",
-      "weight": 1.2214,
+      "weight": 1.1963,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ujange_19",
       "target": "feedcollective.co",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ukuimarlan",
       "target": "warta.dotcom",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ulceland",
       "target": "katadatacoid",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ull_unk89",
       "target": "heraldsulselbar",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "umarono2026",
       "target": "laporan8.id",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "uncle.dionsu",
       "target": "bitorexpost",
-      "weight": 1.1954,
+      "weight": 1.1625,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "urs4major_",
       "target": "bitorexpost",
-      "weight": 1.1078,
+      "weight": 1.1065,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "vdwntr30",
       "target": "feedcollective.co",
-      "weight": 1.1007,
+      "weight": 1.1014,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "veny.vixki",
       "target": "katadatacoid",
-      "weight": 1.1095,
+      "weight": 1.1052,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27697,7 +27697,7 @@
     {
       "source": "veronicamay_dr",
       "target": "katadatacoid",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27711,14 +27711,14 @@
     {
       "source": "vickyhardinata",
       "target": "luarbioskop",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "viorettalinda",
       "target": "manofourtimeid",
-      "weight": 1.1638,
+      "weight": 1.1588,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27753,7 +27753,7 @@
     {
       "source": "wahyu_triyuliantoro",
       "target": "otoproject",
-      "weight": 1.113,
+      "weight": 1.1077,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27767,7 +27767,7 @@
     {
       "source": "wahyudineka46",
       "target": "sindonews",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27781,28 +27781,28 @@
     {
       "source": "warta.banyuwangi",
       "target": "timesindonesia",
-      "weight": 1.1035,
+      "weight": 1.1023,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "watse_84",
       "target": "jabarekspres",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "welgi_afdana31",
       "target": "officialinewstv",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "wendah490",
       "target": "anaktambang",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27816,21 +27816,21 @@
     {
       "source": "whprakoso",
       "target": "cerah_indonesiaku",
-      "weight": 1.2002,
+      "weight": 1.2004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "wildang_abu_fadhlan",
       "target": "sindonews",
-      "weight": 1.1003,
+      "weight": 1.1006,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "wilson_albasri",
       "target": "distanparikpml",
-      "weight": 1.1031,
+      "weight": 1.1015,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27851,7 +27851,7 @@
     {
       "source": "winman007008009",
       "target": "anaktambang",
-      "weight": 1.1126,
+      "weight": 1.1069,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27865,7 +27865,7 @@
     {
       "source": "wiranataasworodarsana",
       "target": "bitorexpost",
-      "weight": 1.1446,
+      "weight": 1.125,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27879,14 +27879,14 @@
     {
       "source": "wuri20984",
       "target": "webekspor",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "wwenehh",
       "target": "luarbioskop",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27907,7 +27907,7 @@
     {
       "source": "y_______e_______n________i",
       "target": "infobanyuwangi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27921,7 +27921,7 @@
     {
       "source": "yanditarigann",
       "target": "bloombergtechnoz",
-      "weight": 1.1123,
+      "weight": 1.1063,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27949,14 +27949,14 @@
     {
       "source": "yatty70",
       "target": "akademi.antikorupsi",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yayatsuprianto",
       "target": "kompascom",
-      "weight": 1.1041,
+      "weight": 1.1035,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27970,7 +27970,7 @@
     {
       "source": "yepeeaja",
       "target": "koranbaliexpress",
-      "weight": 1.1905,
+      "weight": 1.1664,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -27991,7 +27991,7 @@
     {
       "source": "yogiaryo439",
       "target": "kompascom",
-      "weight": 1.1135,
+      "weight": 1.1133,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -28012,35 +28012,35 @@
     {
       "source": "yogsjourney_",
       "target": "bloombergtechnoz",
-      "weight": 1.1004,
+      "weight": 1.1008,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yosia14",
       "target": "radiopatria",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yudhie_1984",
       "target": "koranbaliexpress",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yudhstira.id",
       "target": "murianewscom",
-      "weight": 1.1033,
+      "weight": 1.1019,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yudiantodody",
       "target": "radiopatria",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -28096,21 +28096,21 @@
     {
       "source": "zaskia.salsabila.733",
       "target": "manofourtimeid",
-      "weight": 1.1085,
+      "weight": 1.1124,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "zerosixnineeight",
       "target": "radiopatria",
-      "weight": 1.1002,
+      "weight": 1.1004,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "zhyezhaa",
       "target": "astrobike.katalog",
-      "weight": 1.1032,
+      "weight": 1.1017,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -28124,7 +28124,7 @@
     {
       "source": "zigyzikraa",
       "target": "lifeatgenb",
-      "weight": 1.1001,
+      "weight": 1.1002,
       "edge_count": 1,
       "edge_type": "comment"
     },
@@ -28138,14 +28138,14 @@
     {
       "source": "zildran27",
       "target": "koranbaliexpress",
-      "weight": 1.1436,
+      "weight": 1.1734,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "zinprimadew",
       "target": "bitorexpost",
-      "weight": 1.1034,
+      "weight": 1.1021,
       "edge_count": 1,
       "edge_type": "comment"
     }
@@ -28155,256 +28155,196 @@
       "community_id": 1,
       "size": 76,
       "top_influencer": "sindonews",
-      "top_broker": "tied",
+      "top_broker": "sindonews",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"KonsumsiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0132,
       "internal_edges": 75,
       "external_edges": 3,
-      "internal_edge_ratio": 0.962,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 76
+      "internal_edge_ratio": 0.962
     },
     {
       "community_id": 95,
       "size": 40,
       "top_influencer": "bitorexpost",
-      "top_broker": "tied",
+      "top_broker": "bitorexpost",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.025,
       "internal_edges": 39,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 38
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 58,
       "size": 37,
       "top_influencer": "otoproject",
-      "top_broker": "tied",
+      "top_broker": "otoproject",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.027,
       "internal_edges": 36,
       "external_edges": 2,
-      "internal_edge_ratio": 0.947,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 38
+      "internal_edge_ratio": 0.947
     },
     {
       "community_id": 27,
       "size": 32,
       "top_influencer": "metrotv",
-      "top_broker": "tied",
+      "top_broker": "metrotv",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0312,
       "internal_edges": 31,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 30
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 19,
       "size": 29,
       "top_influencer": "luarbioskop",
-      "top_broker": "tied",
+      "top_broker": "luarbioskop",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"MinyakIndonesia\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.0345,
       "internal_edges": 28,
       "external_edges": 1,
-      "internal_edge_ratio": 0.966,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 28
+      "internal_edge_ratio": 0.966
     },
     {
       "community_id": 44,
       "size": 25,
       "top_influencer": "koranbaliexpress",
-      "top_broker": "tied",
+      "top_broker": "koranbaliexpress",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.04,
       "internal_edges": 24,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 26
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 42,
       "size": 22,
       "top_influencer": "kompascom",
-      "top_broker": "tied",
+      "top_broker": "kompascom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"MinyakIndonesia\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0455,
       "internal_edges": 21,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 20
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 23,
       "size": 20,
       "top_influencer": "sukabumiupdatecom",
-      "top_broker": "tied",
+      "top_broker": "sukabumiupdatecom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.05,
       "internal_edges": 19,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 19
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 135,
       "size": 19,
       "top_influencer": "moltensalt.insight",
-      "top_broker": "tied",
+      "top_broker": "moltensalt.insight",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0526,
       "internal_edges": 18,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 42
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 29,
-      "size": 19,
+      "size": 18,
       "top_influencer": "investordailyid",
-      "top_broker": "tied",
+      "top_broker": "investordailyid",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 4,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"TransisiEnergi\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
-      "interaction_density": 0.0526,
-      "internal_edges": 18,
+      "interaction_density": 0.0556,
+      "internal_edges": 17,
       "external_edges": 2,
-      "internal_edge_ratio": 0.9,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 20
+      "internal_edge_ratio": 0.895
     },
     {
       "community_id": 17,
       "size": 18,
       "top_influencer": "katadatacoid",
-      "top_broker": "tied",
+      "top_broker": "katadatacoid",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.0556,
       "internal_edges": 17,
       "external_edges": 1,
-      "internal_edge_ratio": 0.944,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 16
+      "internal_edge_ratio": 0.944
     },
     {
       "community_id": 25,
       "size": 16,
       "top_influencer": "timesindonesia",
-      "top_broker": "tied",
+      "top_broker": "timesindonesia",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0625,
       "internal_edges": 15,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 14
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 15,
       "size": 16,
       "top_influencer": "feedcollective.co",
-      "top_broker": "tied",
+      "top_broker": "feedcollective.co",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0625,
       "internal_edges": 15,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 16
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 68,
       "size": 15,
       "top_influencer": "bloombergtechnoz",
-      "top_broker": "tied",
+      "top_broker": "bloombergtechnoz",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 1,
-      "top_keywords": "[\"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0667,
       "internal_edges": 14,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 15
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 73,
       "size": 14,
       "top_influencer": "warta.dotcom",
-      "top_broker": "tied",
+      "top_broker": "warta.dotcom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0714,
       "internal_edges": 13,
       "external_edges": 1,
-      "internal_edge_ratio": 0.929,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 0.929
     },
     {
       "community_id": 8,
@@ -28413,525 +28353,401 @@
       "top_broker": "genergibersih",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.1218,
       "internal_edges": 19,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 1,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 66,
       "size": 12,
       "top_influencer": "astrobike.katalog",
-      "top_broker": "tied",
+      "top_broker": "astrobike.katalog",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0833,
       "internal_edges": 11,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 11
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 79,
       "size": 12,
       "top_influencer": "katakitaig",
-      "top_broker": "tied",
+      "top_broker": "katakitaig",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0833,
       "internal_edges": 11,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 47,
       "size": 12,
       "top_influencer": "tommybr_jipro",
-      "top_broker": "tied",
+      "top_broker": "tommybr_jipro",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0833,
       "internal_edges": 11,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 11,
       "size": 12,
       "top_influencer": "suaradotcom",
-      "top_broker": "tied",
+      "top_broker": "suaradotcom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0833,
       "internal_edges": 11,
       "external_edges": 2,
-      "internal_edge_ratio": 0.846,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 0.846
     },
     {
       "community_id": 3,
       "size": 11,
       "top_influencer": "trendjktcom",
-      "top_broker": "tied",
+      "top_broker": "trendjktcom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 54,
       "size": 11,
       "top_influencer": "banten.feeds",
-      "top_broker": "tied",
+      "top_broker": "banten.feeds",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 49,
       "size": 11,
       "top_influencer": "genbanteng",
-      "top_broker": "tied",
+      "top_broker": "genbanteng",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 65,
       "size": 11,
       "top_influencer": "infobanyuwangi",
-      "top_broker": "tied",
+      "top_broker": "infobanyuwangi",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 63,
       "size": 11,
       "top_influencer": "cerah_indonesiaku",
-      "top_broker": "tied",
+      "top_broker": "cerah_indonesiaku",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 1,
-      "internal_edge_ratio": 0.909,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 11
+      "internal_edge_ratio": 0.909
     },
     {
       "community_id": 89,
       "size": 11,
       "top_influencer": "manofourtimeid",
-      "top_broker": "tied",
+      "top_broker": "manofourtimeid",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 1,
-      "internal_edge_ratio": 0.909,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 80,
-      "size": 11,
-      "top_influencer": "tuturmediadigital",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.0909,
-      "internal_edges": 10,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 51,
-      "size": 11,
-      "top_influencer": "tumbuhkaya.id",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"SubsidiBBM\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0909,
-      "internal_edges": 10,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 0.909
     },
     {
       "community_id": 38,
       "size": 11,
       "top_influencer": "daripresiden",
-      "top_broker": "tied",
+      "top_broker": "daripresiden",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"MinyakIndonesia\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 2,
-      "internal_edge_ratio": 0.833,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 11
+      "internal_edge_ratio": 0.833
+    },
+    {
+      "community_id": 62,
+      "size": 11,
+      "top_influencer": "webekspor",
+      "top_broker": "webekspor",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 2,
+      "dominant_sentiment": "Negative",
+      "interaction_density": 0.0909,
+      "internal_edges": 10,
+      "external_edges": 1,
+      "internal_edge_ratio": 0.909
+    },
+    {
+      "community_id": 51,
+      "size": 11,
+      "top_influencer": "tumbuhkaya.id",
+      "top_broker": "tumbuhkaya.id",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 3,
+      "dominant_sentiment": "Negative",
+      "interaction_density": 0.0909,
+      "internal_edges": 10,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 60,
       "size": 11,
       "top_influencer": "anaktambang",
-      "top_broker": "tied",
+      "top_broker": "anaktambang",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
+    },
+    {
+      "community_id": 80,
+      "size": 11,
+      "top_influencer": "tuturmediadigital",
+      "top_broker": "tuturmediadigital",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 2,
+      "dominant_sentiment": "Neutral",
+      "interaction_density": 0.0909,
+      "internal_edges": 10,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 125,
       "size": 11,
       "top_influencer": "infobandaacehs",
-      "top_broker": "tied",
+      "top_broker": "infobandaacehs",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.0909,
       "internal_edges": 10,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 88,
-      "size": 10,
-      "top_influencer": "officialinewstv",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.1,
-      "internal_edges": 9,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.9,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 9
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 12,
       "size": 10,
       "top_influencer": "dpr_ri",
-      "top_broker": "tied",
+      "top_broker": "dpr_ri",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 1,
-      "top_keywords": "[\"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.1,
       "internal_edges": 9,
       "external_edges": 3,
-      "internal_edge_ratio": 0.75,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.75
     },
     {
       "community_id": 6,
       "size": 10,
       "top_influencer": "theglobeconomy",
-      "top_broker": "tied",
+      "top_broker": "theglobeconomy",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.1,
       "internal_edges": 9,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
     },
     {
-      "community_id": 62,
+      "community_id": 88,
       "size": 10,
-      "top_influencer": "webekspor",
-      "top_broker": "tied",
+      "top_influencer": "officialinewstv",
+      "top_broker": "officialinewstv",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.1,
       "internal_edges": 9,
       "external_edges": 1,
-      "internal_edge_ratio": 0.9,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 9
-    },
-    {
-      "community_id": 45,
-      "size": 10,
-      "top_influencer": "laporan8.id",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.1,
-      "internal_edges": 9,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.9,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 9
-    },
-    {
-      "community_id": 18,
-      "size": 10,
-      "top_influencer": "akademi.antikorupsi",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.1222,
-      "internal_edges": 11,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 0.9
     },
     {
       "community_id": 33,
       "size": 10,
       "top_influencer": "rikasavvyy",
-      "top_broker": "tied",
+      "top_broker": "rikasavvyy",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"MinyakIndonesia\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.1,
       "internal_edges": 9,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
+      "internal_edge_ratio": 1.0
+    },
+    {
+      "community_id": 18,
+      "size": 10,
+      "top_influencer": "akademi.antikorupsi",
+      "top_broker": "akademi.antikorupsi",
+      "dominant_keyword": "TransisiEnergi",
+      "keyword_diversity": 2,
+      "dominant_sentiment": "Positive",
+      "interaction_density": 0.1222,
+      "internal_edges": 11,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0
+    },
+    {
+      "community_id": 45,
+      "size": 10,
+      "top_influencer": "laporan8.id",
+      "top_broker": "laporan8.id",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 2,
+      "dominant_sentiment": "Positive",
+      "interaction_density": 0.1,
+      "internal_edges": 9,
+      "external_edges": 1,
+      "internal_edge_ratio": 0.9
     },
     {
       "community_id": 55,
       "size": 10,
       "top_influencer": "radiopatria",
-      "top_broker": "tied",
+      "top_broker": "radiopatria",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.1,
       "internal_edges": 9,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 9
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 130,
       "size": 8,
       "top_influencer": "kapitalismarket",
-      "top_broker": "tied",
+      "top_broker": "kapitalismarket",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 4,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.125,
       "internal_edges": 7,
       "external_edges": 1,
-      "internal_edge_ratio": 0.875,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 8
+      "internal_edge_ratio": 0.875
     },
     {
       "community_id": 21,
       "size": 8,
       "top_influencer": "jabarekspres",
-      "top_broker": "tied",
+      "top_broker": "jabarekspres",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.125,
       "internal_edges": 7,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 7
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 56,
       "size": 8,
       "top_influencer": "zonaebt",
-      "top_broker": "tied",
+      "top_broker": "zonaebt",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.125,
       "internal_edges": 7,
       "external_edges": 1,
-      "internal_edge_ratio": 0.875,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 7
+      "internal_edge_ratio": 0.875
     },
     {
       "community_id": 40,
       "size": 8,
       "top_influencer": "arkaproject.idn",
-      "top_broker": "tied",
+      "top_broker": "arkaproject.idn",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.125,
       "internal_edges": 7,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 7
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 0,
       "size": 8,
       "top_influencer": "cryfex.id",
-      "top_broker": "tied",
+      "top_broker": "cryfex.id",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.125,
       "internal_edges": 7,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 6
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 52,
       "size": 7,
       "top_influencer": "plnip.ubpadipala",
-      "top_broker": "tied",
+      "top_broker": "plnip.ubpadipala",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.1429,
       "internal_edges": 6,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 8
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 13,
       "size": 7,
       "top_influencer": "indovibing.id",
-      "top_broker": "tied",
+      "top_broker": "indovibing.id",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.1429,
       "internal_edges": 6,
       "external_edges": 2,
-      "internal_edge_ratio": 0.75,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 7
+      "internal_edge_ratio": 0.75
     },
     {
       "community_id": 113,
@@ -28940,678 +28756,518 @@
       "top_broker": "lifeatgenb",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.1429,
       "internal_edges": 6,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 126,
       "size": 7,
       "top_influencer": "updatenusantaracom",
-      "top_broker": "tied",
+      "top_broker": "updatenusantaracom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.1429,
       "internal_edges": 6,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 5
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 72,
       "size": 7,
       "top_influencer": "satukanjiwa2024",
-      "top_broker": "tied",
+      "top_broker": "satukanjiwa2024",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.1429,
       "internal_edges": 6,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 6
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 106,
       "size": 6,
       "top_influencer": "solehchemist",
-      "top_broker": "tied",
+      "top_broker": "solehchemist",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.1667,
       "internal_edges": 5,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 5
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 30,
       "size": 5,
       "top_influencer": "astakomunikasi",
-      "top_broker": "tied",
+      "top_broker": "astakomunikasi",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 1,
-      "internal_edge_ratio": 0.8,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 0.8
     },
     {
       "community_id": 41,
       "size": 5,
       "top_influencer": "vibesnewssociety",
-      "top_broker": "tied",
+      "top_broker": "vibesnewssociety",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 91,
       "size": 5,
       "top_influencer": "cekberitanya",
-      "top_broker": "tied",
+      "top_broker": "cekberitanya",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 20,
       "size": 5,
       "top_influencer": "greenpowergrouptbk",
-      "top_broker": "tied",
+      "top_broker": "greenpowergrouptbk",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 6
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 104,
       "size": 5,
       "top_influencer": "enternusantara",
-      "top_broker": "tied",
+      "top_broker": "enternusantara",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 5
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 128,
       "size": 5,
       "top_influencer": "murianewscom",
-      "top_broker": "tied",
+      "top_broker": "murianewscom",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 36,
       "size": 5,
       "top_influencer": "madiuntoday.id",
-      "top_broker": "tied",
+      "top_broker": "madiuntoday.id",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KonsumsiBBM\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 1,
-      "internal_edge_ratio": 0.8,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 6
+      "internal_edge_ratio": 0.8
     },
     {
       "community_id": 93,
       "size": 5,
       "top_influencer": "komnas.ham",
-      "top_broker": "tied",
+      "top_broker": "komnas.ham",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 87,
       "size": 5,
       "top_influencer": "heraldsulselbar",
-      "top_broker": "tied",
+      "top_broker": "heraldsulselbar",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 37,
       "size": 5,
       "top_influencer": "tantriianita",
-      "top_broker": "tied",
+      "top_broker": "tantriianita",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 10,
       "size": 5,
-      "top_influencer": "tied",
-      "top_broker": "tied",
+      "top_influencer": "realdonaldtrump",
+      "top_broker": "realdonaldtrump",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 1,
-      "top_keywords": "[\"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 1,
-      "internal_edge_ratio": 0.8,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.8
     },
     {
       "community_id": 83,
       "size": 5,
       "top_influencer": "depokhariini",
-      "top_broker": "tied",
+      "top_broker": "depokhariini",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 28,
       "size": 5,
       "top_influencer": "policy.pop",
-      "top_broker": "tied",
+      "top_broker": "policy.pop",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.2,
       "internal_edges": 4,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 102,
       "size": 4,
       "top_influencer": "djebtke",
-      "top_broker": "tied",
+      "top_broker": "djebtke",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 1,
-      "internal_edge_ratio": 0.75,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 0.75
     },
     {
       "community_id": 138,
       "size": 4,
       "top_influencer": "satupersenofficial",
-      "top_broker": "tied",
+      "top_broker": "satupersenofficial",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 94,
       "size": 4,
       "top_influencer": "apaajapku",
-      "top_broker": "tied",
+      "top_broker": "apaajapku",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 82,
       "size": 4,
       "top_influencer": "kesdm",
-      "top_broker": "tied",
+      "top_broker": "kesdm",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 1,
-      "internal_edge_ratio": 0.75,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.75
     },
     {
       "community_id": 2,
       "size": 4,
       "top_influencer": "pln_enjiniring",
-      "top_broker": "tied",
+      "top_broker": "pln_enjiniring",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 127,
       "size": 4,
       "top_influencer": "pln.epi",
-      "top_broker": "tied",
+      "top_broker": "pln.epi",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 3,
-      "internal_edge_ratio": 0.5,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 6
+      "internal_edge_ratio": 0.5
     },
     {
       "community_id": 76,
       "size": 4,
       "top_influencer": "aqielr15",
-      "top_broker": "tied",
+      "top_broker": "aqielr15",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 59,
       "size": 4,
       "top_influencer": "sorot_tanah_air",
-      "top_broker": "tied",
+      "top_broker": "sorot_tanah_air",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"MinyakIndonesia\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 53,
       "size": 4,
       "top_influencer": "jabodetabek24info",
-      "top_broker": "tied",
+      "top_broker": "jabodetabek24info",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 39,
       "size": 4,
       "top_influencer": "simakpolitik",
-      "top_broker": "tied",
+      "top_broker": "simakpolitik",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 114,
       "size": 4,
       "top_influencer": "indo.flashid",
-      "top_broker": "tied",
+      "top_broker": "indo.flashid",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 4,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 5,
-      "internal_edge_ratio": 0.375,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 7
+      "internal_edge_ratio": 0.375
     },
     {
       "community_id": 71,
       "size": 4,
       "top_influencer": "wartaekonomi",
-      "top_broker": "tied",
+      "top_broker": "wartaekonomi",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.25,
       "internal_edges": 3,
       "external_edges": 2,
-      "internal_edge_ratio": 0.6,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 0.6
     },
     {
       "community_id": 22,
       "size": 3,
       "top_influencer": "syamsiro",
-      "top_broker": "tied",
+      "top_broker": "syamsiro",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 16,
       "size": 3,
       "top_influencer": "tribunnews",
-      "top_broker": "tied",
+      "top_broker": "tribunnews",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 81,
       "size": 3,
       "top_influencer": "vivacoid",
-      "top_broker": "tied",
+      "top_broker": "vivacoid",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 0.667
     },
     {
       "community_id": 48,
       "size": 3,
       "top_influencer": "anggadrumaholic",
-      "top_broker": "tied",
+      "top_broker": "anggadrumaholic",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 24,
       "size": 3,
       "top_influencer": "rimbasatwa.id",
-      "top_broker": "tied",
+      "top_broker": "rimbasatwa.id",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 97,
       "size": 3,
       "top_influencer": "ariusama20",
-      "top_broker": "tied",
+      "top_broker": "ariusama20",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 99,
       "size": 3,
       "top_influencer": "kabarciledug",
-      "top_broker": "tied",
+      "top_broker": "kabarciledug",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 34,
       "size": 3,
       "top_influencer": "kabartanpadelay",
-      "top_broker": "tied",
+      "top_broker": "kabartanpadelay",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 69,
       "size": 3,
       "top_influencer": "autotivo",
-      "top_broker": "tied",
+      "top_broker": "autotivo",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 0.667
     },
     {
       "community_id": 78,
       "size": 3,
       "top_influencer": "jakarta_headlines",
-      "top_broker": "tied",
+      "top_broker": "jakarta_headlines",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 118,
       "size": 3,
       "top_influencer": "naturevolution.id",
-      "top_broker": "tied",
+      "top_broker": "naturevolution.id",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 43,
@@ -29620,100 +29276,76 @@
       "top_broker": "joeliardisunendar",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 90,
       "size": 3,
       "top_influencer": "ruteberkeadilan.jabar",
-      "top_broker": "tied",
+      "top_broker": "ruteberkeadilan.jabar",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 86,
       "size": 3,
       "top_influencer": "harian.disway",
-      "top_broker": "tied",
+      "top_broker": "harian.disway",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 0.667
     },
     {
       "community_id": 103,
       "size": 3,
       "top_influencer": "otospector",
-      "top_broker": "tied",
+      "top_broker": "otospector",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 14,
       "size": 3,
       "top_influencer": "mkiofficial_",
-      "top_broker": "tied",
+      "top_broker": "mkiofficial_",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 98,
       "size": 3,
       "top_influencer": "ahdahmaulana",
-      "top_broker": "tied",
+      "top_broker": "ahdahmaulana",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.3333,
       "internal_edges": 2,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 70,
@@ -29722,389 +29354,297 @@
       "top_broker": "giz_idasean",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 1,
-      "internal_edge_ratio": 0.5,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.5
     },
     {
       "community_id": 75,
       "size": 2,
       "top_influencer": "nkri24jam",
-      "top_broker": "tied",
+      "top_broker": "nkri24jam",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 74,
       "size": 2,
       "top_influencer": "lbsurundana",
-      "top_broker": "tied",
+      "top_broker": "lbsurundana",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 61,
       "size": 2,
       "top_influencer": "beritasatu",
-      "top_broker": "tied",
+      "top_broker": "beritasatu",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 46,
       "size": 2,
       "top_influencer": "porosrakjat",
-      "top_broker": "tied",
+      "top_broker": "porosrakjat",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 35,
       "size": 2,
       "top_influencer": "energianusantara",
-      "top_broker": "tied",
+      "top_broker": "energianusantara",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 31,
       "size": 2,
       "top_influencer": "indomine_id",
-      "top_broker": "tied",
+      "top_broker": "indomine_id",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 85,
       "size": 2,
       "top_influencer": "jakbarviral",
-      "top_broker": "tied",
+      "top_broker": "jakbarviral",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 100,
       "size": 2,
       "top_influencer": "puspenpol",
-      "top_broker": "tied",
+      "top_broker": "puspenpol",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 1,
-      "internal_edge_ratio": 0.5,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.5
     },
     {
       "community_id": 32,
       "size": 2,
       "top_influencer": "depokseru",
-      "top_broker": "tied",
+      "top_broker": "depokseru",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 26,
       "size": 2,
       "top_influencer": "strum_id",
-      "top_broker": "tied",
+      "top_broker": "strum_id",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 7,
       "size": 2,
       "top_influencer": "agussupriyantobq7",
-      "top_broker": "tied",
+      "top_broker": "agussupriyantobq7",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 139,
       "size": 2,
       "top_influencer": "officialnusantaratv",
-      "top_broker": "tied",
+      "top_broker": "officialnusantaratv",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 3,
-      "top_keywords": "[\"KrisisEnergi\", \"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 4,
       "size": 2,
       "top_influencer": "republikbekasiofficial",
-      "top_broker": "tied",
+      "top_broker": "republikbekasiofficial",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 5,
       "size": 2,
       "top_influencer": "sawanganupdate",
-      "top_broker": "tied",
+      "top_broker": "sawanganupdate",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 2
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 9,
       "size": 2,
       "top_influencer": "pestamedia",
-      "top_broker": "tied",
+      "top_broker": "pestamedia",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 124,
       "size": 2,
       "top_influencer": "agam.munawar",
-      "top_broker": "tied",
+      "top_broker": "agam.munawar",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 109,
       "size": 2,
       "top_influencer": "rujakpolitik",
-      "top_broker": "tied",
+      "top_broker": "rujakpolitik",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 84,
       "size": 2,
       "top_influencer": "cakinvestmentclub",
-      "top_broker": "tied",
+      "top_broker": "cakinvestmentclub",
       "dominant_keyword": "MinyakIndonesia",
       "keyword_diversity": 2,
-      "top_keywords": "[\"MinyakIndonesia\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 101,
       "size": 2,
       "top_influencer": "mr.opini",
-      "top_broker": "tied",
+      "top_broker": "mr.opini",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 110,
       "size": 2,
       "top_influencer": "danurenjaya",
-      "top_broker": "tied",
+      "top_broker": "danurenjaya",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 123,
       "size": 2,
       "top_influencer": "mhdcclinic",
-      "top_broker": "tied",
+      "top_broker": "mhdcclinic",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 121,
       "size": 2,
       "top_influencer": "borobudur_news",
-      "top_broker": "tied",
+      "top_broker": "borobudur_news",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 64,
@@ -30113,168 +29653,128 @@
       "top_broker": "katadatagreen",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 1.0,
       "internal_edges": 2,
       "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 0.667
     },
     {
       "community_id": 50,
       "size": 2,
       "top_influencer": "warga.jakbar",
-      "top_broker": "tied",
+      "top_broker": "warga.jakbar",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 108,
       "size": 2,
       "top_influencer": "growminingcorpindonesia",
-      "top_broker": "tied",
+      "top_broker": "growminingcorpindonesia",
       "dominant_keyword": "MinyakIndonesia",
       "keyword_diversity": 2,
-      "top_keywords": "[\"MinyakIndonesia\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 107,
       "size": 2,
       "top_influencer": "official_nasdem",
-      "top_broker": "tied",
+      "top_broker": "official_nasdem",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 105,
       "size": 2,
       "top_influencer": "sagoetv",
-      "top_broker": "tied",
+      "top_broker": "sagoetv",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 96,
       "size": 2,
       "top_influencer": "distanparikpml",
-      "top_broker": "tied",
+      "top_broker": "distanparikpml",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 92,
       "size": 2,
       "top_influencer": "funderstand.id",
-      "top_broker": "tied",
+      "top_broker": "funderstand.id",
       "dominant_keyword": "MinyakIndonesia",
       "keyword_diversity": 2,
-      "top_keywords": "[\"MinyakIndonesia\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 57,
       "size": 2,
       "top_influencer": "cravinginformation",
-      "top_broker": "tied",
+      "top_broker": "cravinginformation",
       "dominant_keyword": "KrisisEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 67,
       "size": 2,
       "top_influencer": "ikiloguntor",
-      "top_broker": "tied",
+      "top_broker": "ikiloguntor",
       "dominant_keyword": "SubsidiBBM",
       "keyword_diversity": 2,
-      "top_keywords": "[\"SubsidiBBM\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Negative",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     },
     {
       "community_id": 77,
       "size": 2,
       "top_influencer": "dewanenergi",
-      "top_broker": "tied",
+      "top_broker": "dewanenergi",
       "dominant_keyword": "TransisiEnergi",
       "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Positive",
       "interaction_density": 0.5,
       "internal_edges": 1,
       "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
+      "internal_edge_ratio": 1.0
     }
   ],
   "whitespace": []
