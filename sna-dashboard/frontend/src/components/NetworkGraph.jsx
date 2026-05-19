@@ -19,6 +19,19 @@ function calcNodeSize(node) {
   return base + scoreBonus 
 }
 
+function getTopCommunities(nodes, topN = 10) {
+  if (!nodes?.length) return []
+  const counts = {}
+  nodes.forEach(n => {
+    const cid = n.community_id ?? 0
+    counts[cid] = (counts[cid] ?? 0) + 1
+  })
+  return Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, topN)
+    .map(([cid]) => Number(cid))
+}
+
 // Tambah fungsi ini di atas component
 function getEdgeOffset(edge, allEdges) {
   const srcId = typeof edge.source === 'object' ? edge.source.id : edge.source
@@ -122,6 +135,9 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
   const [suggestions, setSuggestions] = useState([])
 
   const graphType = filters?.graphType ?? graphData?.metadata?.graph_name ?? ''
+
+  const topCommunities = getTopCommunities(graphData?.nodes)
+
   // Responsive sizing
   useEffect(() => {
     if (!containerRef.current) return
@@ -383,13 +399,13 @@ export function NetworkGraph({ graphData, onNodeClick, selectedNode, filters }) 
         </div>
       )}
 
-      {/* Legend */}
+            {/* Legend */}
       <div className="absolute top-3 left-3 z-10 flex flex-col gap-1.5 rounded-lg border border-border bg-panel/90 p-3 backdrop-blur-sm">
         <span className="text-xs font-display font-semibold text-dim uppercase tracking-wider mb-1">Top 10 Communities</span>
-        {PALETTE.slice(0, 10).map((color, i) => (
-          <div key={i} className="flex items-center gap-2">
-            <div className="w-2.5 h-2.5 rounded-full" style={{ background: color }} />
-            <span className="text-xs font-mono text-dim">#{i}</span>
+        {topCommunities.map((commId, i) => (
+          <div key={commId} className="flex items-center gap-2">
+            <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ background: communityColor(commId) }} />
+            <span className="text-xs font-mono text-dim">community #{commId}</span>
           </div>
         ))}
         <div className="mt-2 pt-2 border-t border-border space-y-1">
