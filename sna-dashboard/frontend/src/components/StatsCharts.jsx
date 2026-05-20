@@ -71,13 +71,11 @@ export function StatsCharts({ metadata, graphType = 'combined' }) {
       {metadata && (
         <section>
           <h3 className="text-xs font-mono text-dim uppercase tracking-wider mb-3">Network Overview</h3>
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+          <div className="grid grid-cols-2 gap-3">
             <Stat label="Nodes"       value={fmt(metadata.total_nodes)} />
             <Stat label="Edges"       value={fmt(metadata.total_edges)} />
-            <Stat label="Density"     value={metadata.density?.toFixed(6)} />
-            <Stat label="Modularity"  value={metadata.modularity?.toFixed(4)} sub="good > 0.3" />
+            <Stat label="Modularity"  value={metadata.modularity?.toFixed(4)} />
             <Stat label="Communities" value={metadata.n_communities} />
-            <Stat label="LCC ratio"   value={`${((metadata.lcc_ratio ?? 0) * 100).toFixed(1)}%`} />
           </div>
         </section>
       )}
