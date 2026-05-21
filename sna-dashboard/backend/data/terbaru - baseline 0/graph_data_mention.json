@@ -4,8 +4,8 @@
     "total_nodes": 139,
     "total_edges": 102,
     "density": 0.00531749,
-    "modularity": 0.957515,
-    "n_communities": 46,
+    "modularity": 0.957411,
+    "n_communities": 37,
     "lcc_size": 25,
     "lcc_ratio": 0.1799,
     "edge_architecture": "comment-on-post (PRIMARY) + mention (LAYER 2)",
@@ -31,9 +31,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -55,7 +55,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": []
     },
     {
@@ -75,9 +75,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -99,7 +99,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": []
     },
     {
@@ -121,7 +121,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 110,
+      "community_id": 16,
       "active_keywords": []
     },
     {
@@ -143,7 +143,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 42,
+      "community_id": 19,
       "active_keywords": [
         "KrisisEnergi"
       ]
@@ -165,9 +165,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -189,7 +189,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 11,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -211,7 +211,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 127,
+      "community_id": 91,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -233,9 +233,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -257,7 +257,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 112,
+      "community_id": 17,
       "active_keywords": []
     },
     {
@@ -279,7 +279,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "SubsidiBBM",
       "dominant_keyword_node": "N/A",
-      "community_id": 113,
+      "community_id": 24,
       "active_keywords": []
     },
     {
@@ -301,7 +301,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 0,
+      "community_id": 14,
       "active_keywords": []
     },
     {
@@ -323,7 +323,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 126,
+      "community_id": 64,
       "active_keywords": []
     },
     {
@@ -345,7 +345,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 117,
+      "community_id": 26,
       "active_keywords": []
     },
     {
@@ -367,7 +367,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 25,
+      "community_id": 71,
       "active_keywords": []
     },
     {
@@ -389,7 +389,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 47,
+      "community_id": 21,
       "active_keywords": []
     },
     {
@@ -411,7 +411,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 120,
+      "community_id": 30,
       "active_keywords": []
     },
     {
@@ -433,7 +433,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 11,
+      "community_id": 86,
       "active_keywords": []
     },
     {
@@ -455,7 +455,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KenaikanhargaBBM",
-      "community_id": 17,
+      "community_id": 70,
       "active_keywords": [
         "KenaikanhargaBBM",
         "SubsidiBBM"
@@ -480,7 +480,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -504,7 +504,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 111,
+      "community_id": 98,
       "active_keywords": []
     },
     {
@@ -526,7 +526,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "SubsidiBBM",
       "dominant_keyword_node": "N/A",
-      "community_id": 35,
+      "community_id": 80,
       "active_keywords": []
     },
     {
@@ -548,7 +548,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 2,
+      "community_id": 106,
       "active_keywords": []
     },
     {
@@ -570,7 +570,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 111,
+      "community_id": 98,
       "active_keywords": []
     },
     {
@@ -592,7 +592,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KonsumsiBBM",
       "dominant_keyword_node": "N/A",
-      "community_id": 125,
+      "community_id": 35,
       "active_keywords": []
     },
     {
@@ -614,7 +614,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 131,
+      "community_id": 43,
       "active_keywords": []
     },
     {
@@ -636,7 +636,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 17,
+      "community_id": 70,
       "active_keywords": []
     },
     {
@@ -658,7 +658,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 77,
+      "community_id": 76,
       "active_keywords": []
     },
     {
@@ -680,7 +680,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 134,
+      "community_id": 46,
       "active_keywords": []
     },
     {
@@ -702,7 +702,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 135,
+      "community_id": 56,
       "active_keywords": []
     },
     {
@@ -724,7 +724,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 27,
+      "community_id": 11,
       "active_keywords": [
         "SubsidiBBM",
         "KrisisEnergi"
@@ -749,7 +749,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 87,
+      "community_id": 4,
       "active_keywords": []
     },
     {
@@ -771,7 +771,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 95,
+      "community_id": 38,
       "active_keywords": []
     },
     {
@@ -793,7 +793,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 29,
+      "community_id": 12,
       "active_keywords": [
         "KrisisEnergi",
         "TransisiEnergi",
@@ -819,7 +819,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 118,
+      "community_id": 27,
       "active_keywords": []
     },
     {
@@ -841,7 +841,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 118,
+      "community_id": 27,
       "active_keywords": []
     },
     {
@@ -863,7 +863,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 61,
+      "community_id": 91,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -887,7 +887,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KonsumsiBBM",
-      "community_id": 36,
+      "community_id": 74,
       "active_keywords": [
         "KonsumsiBBM",
         "ProduksiMinyak",
@@ -913,7 +913,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KenaikanhargaBBM",
-      "community_id": 58,
+      "community_id": 74,
       "active_keywords": [
         "KenaikanhargaBBM",
         "ProduksiMinyak"
@@ -938,7 +938,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 127,
+      "community_id": 91,
       "active_keywords": []
     },
     {
@@ -960,7 +960,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 129,
+      "community_id": 41,
       "active_keywords": []
     },
     {
@@ -982,7 +982,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 129,
+      "community_id": 41,
       "active_keywords": []
     },
     {
@@ -1004,7 +1004,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 132,
+      "community_id": 44,
       "active_keywords": []
     },
     {
@@ -1026,7 +1026,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 132,
+      "community_id": 44,
       "active_keywords": []
     },
     {
@@ -1046,9 +1046,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "KrisisEnergi",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 79,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1070,7 +1070,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 139,
+      "community_id": 69,
       "active_keywords": []
     },
     {
@@ -1092,7 +1092,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 139,
+      "community_id": 69,
       "active_keywords": []
     },
     {
@@ -1112,9 +1112,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -1136,7 +1136,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 74,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -1158,7 +1158,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 74,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -1180,7 +1180,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 74,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -1202,7 +1202,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 19,
+      "community_id": 8,
       "active_keywords": []
     },
     {
@@ -1224,7 +1224,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 19,
+      "community_id": 8,
       "active_keywords": []
     },
     {
@@ -1246,7 +1246,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 19,
+      "community_id": 8,
       "active_keywords": []
     },
     {
@@ -1268,7 +1268,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 19,
+      "community_id": 8,
       "active_keywords": []
     },
     {
@@ -1290,7 +1290,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 138,
+      "community_id": 62,
       "active_keywords": []
     },
     {
@@ -1312,7 +1312,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 138,
+      "community_id": 62,
       "active_keywords": []
     },
     {
@@ -1334,7 +1334,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 138,
+      "community_id": 62,
       "active_keywords": []
     },
     {
@@ -1356,7 +1356,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 138,
+      "community_id": 62,
       "active_keywords": []
     },
     {
@@ -1376,9 +1376,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": []
     },
     {
@@ -1400,7 +1400,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": []
     },
     {
@@ -1422,7 +1422,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -1446,7 +1446,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": []
     },
     {
@@ -1468,7 +1468,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": []
     },
     {
@@ -1490,7 +1490,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -1514,7 +1514,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "N/A",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": []
     },
     {
@@ -1534,9 +1534,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1556,9 +1556,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1578,9 +1578,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1600,9 +1600,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1622,9 +1622,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": []
     },
     {
@@ -1644,9 +1644,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 731.0,
       "dominant_sentiment": "Positive",
-      "dominant_keyword": "TransisiEnergi",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 71,
+      "community_id": 29,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -1670,7 +1670,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1692,7 +1692,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1714,7 +1714,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1736,7 +1736,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1758,7 +1758,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1780,7 +1780,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1802,7 +1802,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1824,7 +1824,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "N/A",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": []
     },
     {
@@ -1844,9 +1844,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 38.0,
       "dominant_sentiment": "Positive",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": [
         "SubsidiBBM",
         "KrisisEnergi",
@@ -1872,7 +1872,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -1896,7 +1896,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 38,
+      "community_id": 75,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -1920,7 +1920,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 110,
+      "community_id": 16,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -1944,7 +1944,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 112,
+      "community_id": 17,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -1968,7 +1968,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "SubsidiBBM",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 113,
+      "community_id": 24,
       "active_keywords": [
         "SubsidiBBM"
       ]
@@ -1992,7 +1992,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2014,9 +2014,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 8.0,
       "dominant_sentiment": "Negative",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 115,
+      "community_id": 29,
       "active_keywords": [
         "SubsidiBBM"
       ]
@@ -2040,7 +2040,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 0,
+      "community_id": 14,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2064,7 +2064,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 126,
+      "community_id": 64,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2088,7 +2088,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 117,
+      "community_id": 26,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2112,7 +2112,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 25,
+      "community_id": 71,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2136,7 +2136,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 11,
+      "community_id": 75,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2160,7 +2160,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 47,
+      "community_id": 21,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2182,9 +2182,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 3.0,
       "dominant_sentiment": "Positive",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": [
         "SubsidiBBM"
       ]
@@ -2208,7 +2208,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 11,
+      "community_id": 112,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2232,7 +2232,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 118,
+      "community_id": 27,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2256,7 +2256,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 120,
+      "community_id": 30,
       "active_keywords": [
         "KrisisEnergi"
       ]
@@ -2280,7 +2280,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 11,
+      "community_id": 86,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2304,7 +2304,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 74,
+      "community_id": 75,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2328,7 +2328,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2350,9 +2350,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 53.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "TransisiEnergi",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 67,
+      "community_id": 70,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2376,7 +2376,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2400,7 +2400,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 111,
+      "community_id": 98,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2424,7 +2424,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "MinyakIndonesia",
-      "community_id": 42,
+      "community_id": 19,
       "active_keywords": [
         "MinyakIndonesia"
       ]
@@ -2448,7 +2448,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 110,
+      "community_id": 16,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2472,7 +2472,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "SubsidiBBM",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 35,
+      "community_id": 80,
       "active_keywords": [
         "SubsidiBBM"
       ]
@@ -2494,9 +2494,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Positive",
-      "dominant_keyword": "SubsidiBBM",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "KenaikanhargaBBM",
-      "community_id": 109,
+      "community_id": 75,
       "active_keywords": [
         "KenaikanhargaBBM"
       ]
@@ -2520,7 +2520,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 61,
+      "community_id": 91,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2544,7 +2544,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 2,
+      "community_id": 106,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2568,7 +2568,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 111,
+      "community_id": 98,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2592,7 +2592,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 86,
+      "community_id": 75,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2616,7 +2616,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 19,
+      "community_id": 8,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2640,7 +2640,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 58,
+      "community_id": 74,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2664,7 +2664,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 114,
+      "community_id": 112,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2688,7 +2688,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "KonsumsiBBM",
       "dominant_keyword_node": "KonsumsiBBM",
-      "community_id": 125,
+      "community_id": 35,
       "active_keywords": [
         "KonsumsiBBM"
       ]
@@ -2712,7 +2712,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 127,
+      "community_id": 91,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2736,7 +2736,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 129,
+      "community_id": 41,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2760,7 +2760,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 131,
+      "community_id": 43,
       "active_keywords": [
         "KrisisEnergi"
       ]
@@ -2784,7 +2784,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 17,
+      "community_id": 70,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2808,7 +2808,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 132,
+      "community_id": 44,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -2832,7 +2832,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 77,
+      "community_id": 76,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2856,7 +2856,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 57,
+      "community_id": 68,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2880,7 +2880,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 134,
+      "community_id": 46,
       "active_keywords": [
         "KrisisEnergi"
       ]
@@ -2904,7 +2904,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2928,7 +2928,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 135,
+      "community_id": 56,
       "active_keywords": [
         "KrisisEnergi"
       ]
@@ -2950,9 +2950,9 @@
       "avg_interaction": 0.0,
       "total_post_like": 0.0,
       "dominant_sentiment": "Neutral",
-      "dominant_keyword": "KrisisEnergi",
+      "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 79,
+      "community_id": 29,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -2976,7 +2976,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3000,7 +3000,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3024,7 +3024,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 59,
+      "community_id": 29,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3048,7 +3048,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 42,
+      "community_id": 19,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3072,7 +3072,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 8,
+      "community_id": 3,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3096,7 +3096,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "SubsidiBBM",
-      "community_id": 27,
+      "community_id": 11,
       "active_keywords": [
         "SubsidiBBM"
       ]
@@ -3120,7 +3120,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "KrisisEnergi",
       "dominant_keyword_node": "KrisisEnergi",
-      "community_id": 138,
+      "community_id": 62,
       "active_keywords": [
         "KrisisEnergi",
         "TransisiEnergi"
@@ -3145,7 +3145,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 87,
+      "community_id": 4,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3169,7 +3169,7 @@
       "dominant_sentiment": "Neutral",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 95,
+      "community_id": 38,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3193,7 +3193,7 @@
       "dominant_sentiment": "Negative",
       "dominant_keyword": "ProduksiMinyak",
       "dominant_keyword_node": "ProduksiMinyak",
-      "community_id": 29,
+      "community_id": 12,
       "active_keywords": [
         "ProduksiMinyak"
       ]
@@ -3217,7 +3217,7 @@
       "dominant_sentiment": "Positive",
       "dominant_keyword": "TransisiEnergi",
       "dominant_keyword_node": "TransisiEnergi",
-      "community_id": 139,
+      "community_id": 69,
       "active_keywords": [
         "TransisiEnergi"
       ]
@@ -3227,721 +3227,755 @@
     {
       "source": "350id",
       "target": "bahlillahadalia",
-      "weight": 0.0189,
+      "weight": 2.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "350id",
       "target": "haniffaisolnurofiq",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "350id",
       "target": "prabowo",
-      "weight": 0.0189,
+      "weight": 2.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "________naba",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aan101425",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aelav.u",
       "target": "yuliawati.792",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aktualcom",
       "target": "aktualforum",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "arafatsaid765",
       "target": "sorotan",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ashza_ras",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "energinewsid",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "kesdm",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "pertamina",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "pertamina.foundation",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "pertaminapatraniaga",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "storyrakyat_",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "voxnetizens",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "aulia.rahmawati84",
       "target": "wartaekonomi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bangleo.fx",
       "target": "vzn_iqbal",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "basyiriskandarsyah",
       "target": "fraksigolkar",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "beldocuan",
       "target": "beldocuanfreeforum",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "bp_sukendro",
       "target": "asanddre",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "caapciipcuupp",
       "target": "bahlillahadalia",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "cahayabintang4668",
       "target": "jusufkalla",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "cerita.rame",
       "target": "bahlillahadalia",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "cerita.rame",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "cerita.rame",
       "target": "purbayayudhi.official",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "chris.tobing",
       "target": "dpr_ri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ditlitka.ppidunia",
       "target": "arroyyanmas",
-      "weight": 0.0189,
+      "weight": 2.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ditlitka.ppidunia",
       "target": "pembuat_jejak25",
-      "weight": 0.0189,
+      "weight": 2.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "er_dhaniswara",
       "target": "jak101fm",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "farelmaliq944",
       "target": "gusmiftah",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "friedo.hekya",
       "target": "gerindra",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "friedo.hekya",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "friedo.hekya",
       "target": "rizky_irmansyah",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "friedo.hekya",
       "target": "tumgrd",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "genergibersih",
       "target": "alif.m.ismail",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "genergibersih",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "giz_idasean",
       "target": "katadatacoid",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "gracegunawans",
       "target": "akademi.antikorupsi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "iaammaulana",
       "target": "genb.semarang",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "indonesiaterkini_id",
       "target": "kompascom",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ini.noyess",
       "target": "yuliawati.792",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "joeliardisunendar",
       "target": "jsportfolio.id",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "kangbeben",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "katadatagreen",
       "target": "romoraedwards",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "katadatagreen",
       "target": "satya.bumi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "kugynana",
       "target": "aldyrahadian8",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lifeatgenb",
       "target": "genergiberish",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "lucky6276600",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maullyaariifiin",
       "target": "netanyahuar",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maullyaariifiin",
       "target": "potus",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maullyaariifiin",
       "target": "realdonaldtrump",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "maullyaariifiin",
       "target": "yair_netanyahu",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "meka007",
       "target": "madiuntoday.id",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "meka007",
       "target": "otoproject",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "djed.komdigi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "dpr_ri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "gibran_rakabuming",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "gojekindonesia",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "grabid",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "kemenhub151",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "ketua_dprri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "literasidigitalkomdigi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "perekonomianri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "merchandise_original_persib",
       "target": "prabowo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "mg.mampang_nur",
       "target": "matanajwa",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "milisiliterasi",
       "target": "satya.bumi",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "milisiliterasi",
       "target": "yayasankehati",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "odiqww",
       "target": "enviroxiland2026",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "odiqww",
       "target": "hmtl.undip",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "officialicm",
       "target": "icmofficial",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "parvasani",
       "target": "menkeuri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "periklindo",
       "target": "hanzizar",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "periklindo",
       "target": "prodigus.id",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "queenajjakarta",
       "target": "purbayasadewa.official",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "aden_achmad_me",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "bilic_indonesia",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "mamet_yadi2808",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "sitie416",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "yatty70",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "ratna_aden",
       "target": "zulhamka_julianto_kadir",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "redaksi_mandarnesia",
       "target": "esdm_ri",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "salsabillaurel",
       "target": "alif.m.ismail",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "salsabillaurel",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "st4r.lovz",
       "target": "ratihandriyani",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "supermie.hobbies",
       "target": "kesdm",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "supermie.hobbies",
       "target": "najwashihab",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "syahrulnr23",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "szahrxx",
       "target": "alif.m.ismail",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "taufiklexo8389",
       "target": "pertamina",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tere616",
       "target": "kompascom",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "tii_aa37",
       "target": "riyan.nurrahman",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "topik.sumbar24jam",
       "target": "metrotv",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "validnews",
       "target": "devirhm5",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "validnews",
       "target": "fao",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "validnews",
       "target": "nanug.pratomo",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "validnews",
       "target": "visitelitisaksama",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "visyabiru_",
       "target": "minimalistmoms.id",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "wily_setia30",
       "target": "whitehouse",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "yurikaputri067",
       "target": "investordailyid",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "zamzam.f",
       "target": "ukmpenelitianuny",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     },
     {
       "source": "zamzam.f",
       "target": "unysef_official",
-      "weight": 0.0094,
+      "weight": 1.0,
       "edge_count": 1,
       "edge_type": "comment"
     }
   ],
   "communities": [
     {
-      "community_id": 95,
+      "community_id": 75,
+      "size": 49,
+      "top_influencer": "manofourtimeid",
+      "top_broker": "tied",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 5,
+      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\", \"TransisiEnergi\", \"MinyakIndonesia\"]",
+      "dominant_sentiment": "Positive",
+      "interaction_density": 0.0208,
+      "internal_edges": 49,
+      "external_edges": 2,
+      "internal_edge_ratio": 0.961,
+      "tier1_count": 0,
+      "tier2_count": 5,
+      "total_comments_recv": 36
+    },
+    {
+      "community_id": 74,
+      "size": 45,
+      "top_influencer": "otoproject",
+      "top_broker": "tied",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 5,
+      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\", \"SubsidiBBM\", \"KrisisEnergi\", \"KonsumsiBBM\"]",
+      "dominant_sentiment": "Neutral",
+      "interaction_density": 0.0222,
+      "internal_edges": 44,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
+      "tier1_count": 1,
+      "tier2_count": 0,
+      "total_comments_recv": 47
+    },
+    {
+      "community_id": 38,
       "size": 40,
       "top_influencer": "bitorexpost",
       "top_broker": "tied",
@@ -3958,24 +3992,41 @@
       "total_comments_recv": 38
     },
     {
-      "community_id": 58,
-      "size": 39,
-      "top_influencer": "otoproject",
+      "community_id": 112,
+      "size": 37,
+      "top_influencer": "laporan8.id",
       "top_broker": "tied",
       "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.0256,
-      "internal_edges": 38,
-      "external_edges": 2,
-      "internal_edge_ratio": 0.95,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 42
+      "keyword_diversity": 4,
+      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\", \"TransisiEnergi\"]",
+      "dominant_sentiment": "Negative",
+      "interaction_density": 0.027,
+      "internal_edges": 36,
+      "external_edges": 3,
+      "internal_edge_ratio": 0.923,
+      "tier1_count": 0,
+      "tier2_count": 2,
+      "total_comments_recv": 28
     },
     {
-      "community_id": 19,
+      "community_id": 12,
+      "size": 36,
+      "top_influencer": "investordailyid",
+      "top_broker": "tied",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 4,
+      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"TransisiEnergi\", \"SubsidiBBM\"]",
+      "dominant_sentiment": "Negative",
+      "interaction_density": 0.0278,
+      "internal_edges": 35,
+      "external_edges": 1,
+      "internal_edge_ratio": 0.972,
+      "tier1_count": 1,
+      "tier2_count": 2,
+      "total_comments_recv": 36
+    },
+    {
+      "community_id": 8,
       "size": 34,
       "top_influencer": "luarbioskop",
       "top_broker": "tied",
@@ -3992,7 +4043,7 @@
       "total_comments_recv": 29
     },
     {
-      "community_id": 27,
+      "community_id": 11,
       "size": 32,
       "top_influencer": "metrotv",
       "top_broker": "tied",
@@ -4009,7 +4060,24 @@
       "total_comments_recv": 30
     },
     {
-      "community_id": 42,
+      "community_id": 29,
+      "size": 26,
+      "top_influencer": "cerah_indonesiaku",
+      "top_broker": "tied",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 4,
+      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\", \"SubsidiBBM\", \"KrisisEnergi\"]",
+      "dominant_sentiment": "Neutral",
+      "interaction_density": 0.0385,
+      "internal_edges": 25,
+      "external_edges": 1,
+      "internal_edge_ratio": 0.962,
+      "tier1_count": 0,
+      "tier2_count": 1,
+      "total_comments_recv": 15
+    },
+    {
+      "community_id": 19,
       "size": 22,
       "top_influencer": "kompascom",
       "top_broker": "tied",
@@ -4026,41 +4094,24 @@
       "total_comments_recv": 20
     },
     {
-      "community_id": 29,
-      "size": 19,
-      "top_influencer": "investordailyid",
-      "top_broker": "tied",
+      "community_id": 70,
+      "size": 20,
+      "top_influencer": "katadatacoid",
+      "top_broker": "giz_idasean",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 4,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\", \"TransisiEnergi\", \"SubsidiBBM\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0526,
-      "internal_edges": 18,
-      "external_edges": 2,
-      "internal_edge_ratio": 0.9,
-      "tier1_count": 1,
-      "tier2_count": 0,
-      "total_comments_recv": 20
-    },
-    {
-      "community_id": 17,
-      "size": 18,
-      "top_influencer": "katadatacoid",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\", \"SubsidiBBM\"]",
+      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\", \"KenaikanhargaBBM\", \"SubsidiBBM\"]",
       "dominant_sentiment": "Positive",
-      "interaction_density": 0.0556,
-      "internal_edges": 17,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.944,
+      "interaction_density": 0.05,
+      "internal_edges": 19,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
       "tier1_count": 0,
       "tier2_count": 1,
-      "total_comments_recv": 16
+      "total_comments_recv": 17
     },
     {
-      "community_id": 25,
+      "community_id": 71,
       "size": 16,
       "top_influencer": "timesindonesia",
       "top_broker": "tied",
@@ -4077,58 +4128,7 @@
       "total_comments_recv": 14
     },
     {
-      "community_id": 74,
-      "size": 14,
-      "top_influencer": "warta.dotcom",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0714,
-      "internal_edges": 13,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.929,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 114,
-      "size": 13,
-      "top_influencer": "indo.flashid",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 4,
-      "top_keywords": "[\"ProduksiMinyak\", \"SubsidiBBM\", \"KrisisEnergi\", \"TransisiEnergi\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0769,
-      "internal_edges": 12,
-      "external_edges": 6,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 8
-    },
-    {
-      "community_id": 11,
-      "size": 13,
-      "top_influencer": "suaradotcom",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0769,
-      "internal_edges": 12,
-      "external_edges": 2,
-      "internal_edge_ratio": 0.857,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 8,
+      "community_id": 3,
       "size": 13,
       "top_influencer": "genergibersih",
       "top_broker": "genergibersih",
@@ -4145,7 +4145,7 @@
       "total_comments_recv": 10
     },
     {
-      "community_id": 47,
+      "community_id": 21,
       "size": 12,
       "top_influencer": "tommybr_jipro",
       "top_broker": "tied",
@@ -4162,7 +4162,7 @@
       "total_comments_recv": 10
     },
     {
-      "community_id": 77,
+      "community_id": 76,
       "size": 12,
       "top_influencer": "katakitaig",
       "top_broker": "tied",
@@ -4180,57 +4180,23 @@
     },
     {
       "community_id": 86,
-      "size": 11,
-      "top_influencer": "manofourtimeid",
+      "size": 10,
+      "top_influencer": "suaradotcom",
       "top_broker": "tied",
       "dominant_keyword": "ProduksiMinyak",
       "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"KrisisEnergi\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.0909,
-      "internal_edges": 10,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.909,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 10
-    },
-    {
-      "community_id": 38,
-      "size": 11,
-      "top_influencer": "daripresiden",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"MinyakIndonesia\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.0909,
-      "internal_edges": 10,
-      "external_edges": 2,
-      "internal_edge_ratio": 0.833,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 11
-    },
-    {
-      "community_id": 59,
-      "size": 11,
-      "top_influencer": "cerah_indonesiaku",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\", \"KrisisEnergi\"]",
+      "top_keywords": "[\"ProduksiMinyak\", \"KenaikanhargaBBM\"]",
       "dominant_sentiment": "Neutral",
-      "interaction_density": 0.0909,
-      "internal_edges": 10,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.909,
+      "interaction_density": 0.1,
+      "internal_edges": 9,
+      "external_edges": 2,
+      "internal_edge_ratio": 0.818,
       "tier1_count": 0,
       "tier2_count": 1,
-      "total_comments_recv": 11
+      "total_comments_recv": 8
     },
     {
-      "community_id": 57,
+      "community_id": 68,
       "size": 10,
       "top_influencer": "akademi.antikorupsi",
       "top_broker": "tied",
@@ -4247,7 +4213,7 @@
       "total_comments_recv": 4
     },
     {
-      "community_id": 0,
+      "community_id": 14,
       "size": 8,
       "top_influencer": "cryfex.id",
       "top_broker": "tied",
@@ -4264,58 +4230,7 @@
       "total_comments_recv": 6
     },
     {
-      "community_id": 115,
-      "size": 8,
-      "top_influencer": "kesdm",
-      "top_broker": "tied",
-      "dominant_keyword": "SubsidiBBM",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"SubsidiBBM\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.125,
-      "internal_edges": 7,
-      "external_edges": 3,
-      "internal_edge_ratio": 0.7,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 109,
-      "size": 7,
-      "top_influencer": "prabowo",
-      "top_broker": "tied",
-      "dominant_keyword": "SubsidiBBM",
-      "keyword_diversity": 4,
-      "top_keywords": "[\"SubsidiBBM\", \"KenaikanhargaBBM\", \"KrisisEnergi\", \"TransisiEnergi\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.1667,
-      "internal_edges": 7,
-      "external_edges": 5,
-      "internal_edge_ratio": 0.583,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 111,
-      "size": 7,
-      "top_influencer": "lifeatgenb",
-      "top_broker": "lifeatgenb",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.1429,
-      "internal_edges": 6,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 4
-    },
-    {
-      "community_id": 126,
+      "community_id": 64,
       "size": 7,
       "top_influencer": "updatenusantaracom",
       "top_broker": "tied",
@@ -4332,7 +4247,41 @@
       "total_comments_recv": 5
     },
     {
-      "community_id": 138,
+      "community_id": 98,
+      "size": 7,
+      "top_influencer": "lifeatgenb",
+      "top_broker": "lifeatgenb",
+      "dominant_keyword": "ProduksiMinyak",
+      "keyword_diversity": 2,
+      "top_keywords": "[\"ProduksiMinyak\", \"TransisiEnergi\"]",
+      "dominant_sentiment": "Neutral",
+      "interaction_density": 0.1429,
+      "internal_edges": 6,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
+      "tier1_count": 0,
+      "tier2_count": 1,
+      "total_comments_recv": 4
+    },
+    {
+      "community_id": 91,
+      "size": 5,
+      "top_influencer": "katadatagreen",
+      "top_broker": "katadatagreen",
+      "dominant_keyword": "TransisiEnergi",
+      "keyword_diversity": 2,
+      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
+      "dominant_sentiment": "Neutral",
+      "interaction_density": 0.25,
+      "internal_edges": 5,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
+      "tier1_count": 0,
+      "tier2_count": 0,
+      "total_comments_recv": 1
+    },
+    {
+      "community_id": 62,
       "size": 5,
       "top_influencer": "tied",
       "top_broker": "tied",
@@ -4349,7 +4298,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 2,
+      "community_id": 106,
       "size": 4,
       "top_influencer": "pln_enjiniring",
       "top_broker": "tied",
@@ -4366,58 +4315,7 @@
       "total_comments_recv": 2
     },
     {
-      "community_id": 36,
-      "size": 4,
-      "top_influencer": "madiuntoday.id",
-      "top_broker": "tied",
-      "dominant_keyword": "ProduksiMinyak",
-      "keyword_diversity": 3,
-      "top_keywords": "[\"ProduksiMinyak\", \"KonsumsiBBM\", \"KenaikanhargaBBM\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.25,
-      "internal_edges": 3,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.75,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 4
-    },
-    {
-      "community_id": 71,
-      "size": 4,
-      "top_influencer": "wartaekonomi",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.25,
-      "internal_edges": 3,
-      "external_edges": 2,
-      "internal_edge_ratio": 0.6,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 3
-    },
-    {
-      "community_id": 127,
-      "size": 3,
-      "top_influencer": "satya.bumi",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"TransisiEnergi\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.3333,
-      "internal_edges": 2,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 110,
+      "community_id": 16,
       "size": 3,
       "top_influencer": "yuliawati.792",
       "top_broker": "tied",
@@ -4434,7 +4332,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 132,
+      "community_id": 44,
       "size": 3,
       "top_influencer": "tied",
       "top_broker": "tied",
@@ -4451,47 +4349,13 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 139,
+      "community_id": 4,
       "size": 3,
-      "top_influencer": "tied",
+      "top_influencer": "minimalistmoms.id",
       "top_broker": "tied",
       "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"TransisiEnergi\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.3333,
-      "internal_edges": 2,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 129,
-      "size": 3,
-      "top_influencer": "tied",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"TransisiEnergi\"]",
-      "dominant_sentiment": "Negative",
-      "interaction_density": 0.3333,
-      "internal_edges": 2,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 118,
-      "size": 3,
-      "top_influencer": "tied",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"TransisiEnergi\"]",
+      "keyword_diversity": 2,
+      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
@@ -4499,10 +4363,10 @@
       "internal_edge_ratio": 1.0,
       "tier1_count": 0,
       "tier2_count": 0,
-      "total_comments_recv": 0
+      "total_comments_recv": 1
     },
     {
-      "community_id": 35,
+      "community_id": 80,
       "size": 3,
       "top_influencer": "joeliardisunendar",
       "top_broker": "joeliardisunendar",
@@ -4519,13 +4383,30 @@
       "total_comments_recv": 1
     },
     {
-      "community_id": 87,
+      "community_id": 41,
       "size": 3,
-      "top_influencer": "ruteberkeadilan.jabar",
+      "top_influencer": "tied",
       "top_broker": "tied",
       "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
+      "keyword_diversity": 1,
+      "top_keywords": "[\"TransisiEnergi\"]",
+      "dominant_sentiment": "Negative",
+      "interaction_density": 0.3333,
+      "internal_edges": 2,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
+      "tier1_count": 0,
+      "tier2_count": 0,
+      "total_comments_recv": 0
+    },
+    {
+      "community_id": 27,
+      "size": 3,
+      "top_influencer": "tied",
+      "top_broker": "tied",
+      "dominant_keyword": "TransisiEnergi",
+      "keyword_diversity": 1,
+      "top_keywords": "[\"TransisiEnergi\"]",
       "dominant_sentiment": "Neutral",
       "interaction_density": 0.3333,
       "internal_edges": 2,
@@ -4533,61 +4414,27 @@
       "internal_edge_ratio": 1.0,
       "tier1_count": 0,
       "tier2_count": 0,
-      "total_comments_recv": 1
+      "total_comments_recv": 0
     },
     {
-      "community_id": 79,
+      "community_id": 69,
       "size": 3,
-      "top_influencer": "komparasinews.id",
+      "top_influencer": "tied",
       "top_broker": "tied",
-      "dominant_keyword": "KrisisEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"KrisisEnergi\", \"ProduksiMinyak\"]",
-      "dominant_sentiment": "Neutral",
+      "dominant_keyword": "TransisiEnergi",
+      "keyword_diversity": 1,
+      "top_keywords": "[\"TransisiEnergi\"]",
+      "dominant_sentiment": "Positive",
       "interaction_density": 0.3333,
       "internal_edges": 2,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.667,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
       "tier1_count": 0,
       "tier2_count": 0,
-      "total_comments_recv": 1
+      "total_comments_recv": 0
     },
     {
-      "community_id": 67,
-      "size": 2,
-      "top_influencer": "giz_idasean",
-      "top_broker": "giz_idasean",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 0.5,
-      "internal_edges": 1,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.5,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 1
-    },
-    {
-      "community_id": 61,
-      "size": 2,
-      "top_influencer": "katadatagreen",
-      "top_broker": "katadatagreen",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 2,
-      "top_keywords": "[\"TransisiEnergi\", \"ProduksiMinyak\"]",
-      "dominant_sentiment": "Neutral",
-      "interaction_density": 1.0,
-      "internal_edges": 2,
-      "external_edges": 1,
-      "internal_edge_ratio": 0.667,
-      "tier1_count": 0,
-      "tier2_count": 1,
-      "total_comments_recv": 1
-    },
-    {
-      "community_id": 120,
+      "community_id": 30,
       "size": 2,
       "top_influencer": "jak101fm",
       "top_broker": "tied",
@@ -4604,7 +4451,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 117,
+      "community_id": 26,
       "size": 2,
       "top_influencer": "beldocuanfreeforum",
       "top_broker": "tied",
@@ -4621,24 +4468,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 112,
-      "size": 2,
-      "top_influencer": "aktualforum",
-      "top_broker": "tied",
-      "dominant_keyword": "TransisiEnergi",
-      "keyword_diversity": 1,
-      "top_keywords": "[\"TransisiEnergi\"]",
-      "dominant_sentiment": "Positive",
-      "interaction_density": 0.5,
-      "internal_edges": 1,
-      "external_edges": 0,
-      "internal_edge_ratio": 1.0,
-      "tier1_count": 0,
-      "tier2_count": 0,
-      "total_comments_recv": 0
-    },
-    {
-      "community_id": 113,
+      "community_id": 24,
       "size": 2,
       "top_influencer": "sorotan",
       "top_broker": "tied",
@@ -4655,7 +4485,24 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 131,
+      "community_id": 17,
+      "size": 2,
+      "top_influencer": "aktualforum",
+      "top_broker": "tied",
+      "dominant_keyword": "TransisiEnergi",
+      "keyword_diversity": 1,
+      "top_keywords": "[\"TransisiEnergi\"]",
+      "dominant_sentiment": "Positive",
+      "interaction_density": 0.5,
+      "internal_edges": 1,
+      "external_edges": 0,
+      "internal_edge_ratio": 1.0,
+      "tier1_count": 0,
+      "tier2_count": 0,
+      "total_comments_recv": 0
+    },
+    {
+      "community_id": 43,
       "size": 2,
       "top_influencer": "icmofficial",
       "top_broker": "tied",
@@ -4672,7 +4519,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 125,
+      "community_id": 35,
       "size": 2,
       "top_influencer": "matanajwa",
       "top_broker": "tied",
@@ -4689,7 +4536,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 135,
+      "community_id": 56,
       "size": 2,
       "top_influencer": "ratihandriyani",
       "top_broker": "tied",
@@ -4706,7 +4553,7 @@
       "total_comments_recv": 0
     },
     {
-      "community_id": 134,
+      "community_id": 46,
       "size": 2,
       "top_influencer": "esdm_ri",
       "top_broker": "tied",
