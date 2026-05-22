@@ -54,11 +54,11 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                         transition-all duration-150"
             >
               {{
-                1: 'User who is famous with huge audiences but less personal engagement',
-                2: 'User who is well-known online with wide reach',
-                3: 'User with steady growth and balanced impact',
-                4: 'User that has niche expertise and trusted voice',
-                5: 'User with relatively low interaction activity',
+                1: 'Top-tier influential account in the network with significant reach and impact',
+                2: 'Highly influential and well-connected account',
+                3: 'Moderately influential account',
+                4: 'Account with limited but noticeable network influence',
+                5: 'Regular account with low overall network influence',
               }[data.node.tier]}
             </span>
           </span>
@@ -72,7 +72,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
                   <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
-                    Weighted influence value calculated from multiple network centrality metrics.
+                    Overall influence level of an account within the discussion network. (Range: 0–1), higher means more influential.
                   </span>
                 </span>
               </div>
@@ -82,7 +82,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
                   <span className="pointer-events-none absolute bottom-5 right-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
-                    Measures how important an account is based on the importance of connected accounts
+                    Shows how influential an account is based on connections from other influential accounts. 
                   </span>
                 </span>
               </div>
@@ -97,7 +97,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
                   <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
-                    Measures how often an account acts as a bridge between different communities.
+                    Shows how important an account is in connecting different groups or communities. 
                   </span>
                 </span>
               </div>
@@ -122,7 +122,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <span className="group absolute top-0 left-8 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
                   <span className="pointer-events-none absolute bottom-5 left-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
-                    Number of interactions initiated by an account toward other users
+                    Number of interactions initiated by an account to other users
                   </span>
                 </span>
               </div>
