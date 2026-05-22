@@ -81,7 +81,7 @@ export function NodeDetailPanel({ username, graphType = 'combined', onClose }) {
                 <Stat label="PageRank" value={fmtPct(data.node.pagerank)} />
                 <span className="group absolute top-2 right-2 inline-flex items-center">
                   <Info size={12} className="text-muted-foreground cursor-default" />
-                  <span className="pointer-events-none absolute bottom-5 right-0 z-50 w-44 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
+                  <span className="pointer-events-none absolute bottom-5 right-0 z-50 w-60 rounded-lg border border-border bg-panel px-3 py-2 text-xs font-mono text-text leading-relaxed opacity-0 group-hover:opacity-100 transition-opacity duration-150">
                     Shows how influential an account is based on connections from other influential accounts. 
                   </span>
                 </span>
